@@ -1,0 +1,24 @@
+# --- Python Virtual Environments ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- Python Cache & Compiled Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Distribution / Build ---
+dist/
+build/
+*.egg-info/
+
+# --- OS & IDE Metadata ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Environment Variables (Secret Keys) ---
+.env
