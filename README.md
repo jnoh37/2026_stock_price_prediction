@@ -148,6 +148,9 @@ Compare with embedding-based models (e.g. BERT)
 
 # 👤 Author
 
+Jeeyeon Noh  
+Jingyi Wang  
+
 Developed as an interpretable NLP + finance research project.
 
 # 📜 Disclaimer
