@@ -1,10 +1,10 @@
-2026_stock_price_prediction
+# 2026_stock_price_prediction
 
 An extensible, interpretable NLP framework for modeling how corporate announcements impact short-term stock price movements. This repository includes a reference end-to-end implementation using layoff and AI-related signals.
 
 This project focuses on how specific announcement themes (e.g. layoffs, AI adoption) are associated with short-term stock price reactions, rather than black-box text embeddings.
 
-🔍 Project Overview
+# 🔍 Project Overview
 
 Corporate announcements often contain signals that influence short-term market reactions.
 This project builds an end-to-end, interpretable NLP pipeline that:
@@ -17,7 +17,7 @@ Trains a logistic regression model to estimate the probability of price increase
 
 Provides a web interface for real-time text-based inference
 
-🧠 Key Idea
+# 🧠 Key Idea
 
 Instead of using opaque embeddings, this project adopts a hypothesis-driven NLP approach:
 
@@ -27,7 +27,8 @@ AI / automation narratives → often associated with productivity and growth exp
 
 These signals are quantified using TF-IDF–based keyword scoring and fed into a transparent regression model.
 
-📁 Project Structure
+# 📁 Project Structure
+
 2026_stock_price_prediction/
 │
 ├── artifacts/
@@ -52,7 +53,7 @@ These signals are quantified using TF-IDF–based keyword scoring and fed into a
 ├── requirements.txt
 └── .gitignore
 
-⚙️ Methodology
+# ⚙️ Methodology
 1️⃣ Text Processing
 
 Raw .txt announcements are parsed into structured JSON
@@ -83,7 +84,7 @@ Inputs: layoff_signal, ai_signal
 
 Output: Probability of stock price increase
 
-📈 Example Output
+# 📈 Example Output
 {
   "layoff_signal": 2.21,
   "ai_signal": 0.32,
@@ -95,7 +96,7 @@ Output: Probability of stock price increase
 Interpretation:
 High layoff intensity and limited AI-related language are associated with a lower probability of short-term price increase.
 
-🌐 Web Demo
+# 🌐 Web Demo
 
 The project includes a Streamlit web application that allows users to:
 
@@ -113,7 +114,7 @@ Run locally
 pip install -r requirements.txt
 streamlit run script/app.py
 
-📦 Dependencies
+# 📦 Dependencies
 
 See requirements.txt. Core libraries include:
 
@@ -127,7 +128,7 @@ yfinance
 
 streamlit
 
-⚠️ Limitations
+# ⚠️ Limitations
 
 Small event sample size
 
@@ -135,7 +136,7 @@ Market-wide movements not fully controlled
 
 Designed for interpretability & research, not trading execution
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 
 Expand event dataset
 
@@ -145,11 +146,11 @@ Include sector or index controls
 
 Compare with embedding-based models (e.g. BERT)
 
-👤 Author
+# 👤 Author
 
 Developed as an interpretable NLP + finance research project.
 
-📜 Disclaimer
+# 📜 Disclaimer
 
 This project is for educational and research purposes only.
 It does not constitute financial or investment advice.
