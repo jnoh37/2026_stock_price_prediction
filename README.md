@@ -1,6 +1,6 @@
 2026_stock_price_prediction
 
-Predict short-term stock price movement (Up / Down probability) following corporate news and announcements, using interpretable NLP signals and logistic regression.
+An extensible, interpretable NLP framework for modeling how corporate announcements impact short-term stock price movements. This repository includes a reference end-to-end implementation using layoff and AI-related signals.
 
 This project focuses on how specific announcement themes (e.g. layoffs, AI adoption) are associated with short-term stock price reactions, rather than black-box text embeddings.
 
