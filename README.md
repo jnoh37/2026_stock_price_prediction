@@ -17,6 +17,8 @@ Trains a logistic regression model to estimate the probability of price increase
 
 Provides a web interface for real-time text-based inference
 
+Integrates conference call transcripts from major US financial institutions (sourced from official websites) to expand the event dataset.
+
 # 🧠 Key Idea
 
 Instead of using opaque embeddings, this project adopts a hypothesis-driven NLP approach:
@@ -28,7 +30,7 @@ AI / automation narratives → often associated with productivity and growth exp
 These signals are quantified using TF-IDF–based keyword scoring and fed into a transparent regression model.
 
 # 📁 Project Structure
-
+```
 2026_stock_price_prediction/
 │
 ├── artifacts/
@@ -36,13 +38,16 @@ These signals are quantified using TF-IDF–based keyword scoring and fed into a
 │
 ├── data/
 │   ├── raw_data/                      # Raw news / announcement text files (.txt)
+│   │   └── conference_call/           # Transcripts from major US financial institutions
 │   ├── processed_data/
 │   │   ├── events.jsonl               # Structured events
+│   │   ├── events_conf.jsonl          # Structured conference call events
 │   │   ├── event_signals.jsonl        # Extracted NLP signals
 │   │   └── event_returns_multi_company.csv
 │
 ├── script/
 │   ├── txt_to_json.py                 # TXT → JSON conversion
+│   ├── txt_to_json_conf.py            # Conference call TXT → JSONL conversion
 │   ├── tfidf_event_signals.py         # TF-IDF signal extraction
 │   ├── align_events_multi_company.py  # Event–price alignment
 │   ├── train_model.py                 # Model training
@@ -52,6 +57,7 @@ These signals are quantified using TF-IDF–based keyword scoring and fed into a
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 # ⚙️ Methodology
 1️⃣ Text Processing
@@ -59,6 +65,8 @@ These signals are quantified using TF-IDF–based keyword scoring and fed into a
 Raw .txt announcements are parsed into structured JSON
 
 Metadata (date, title, URL) + cleaned content
+
+For conference calls, since explicit titles are often unavailable, titles are generated in the format: `{company_name}_conference_call`.
 
 2️⃣ Signal Extraction
 
