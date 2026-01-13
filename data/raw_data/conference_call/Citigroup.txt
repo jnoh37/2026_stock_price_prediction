@@ -1,0 +1,282 @@
+Date: 2025-10-14
+URL: https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q32025/2025psqtr3-transcript.pdf](https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q32025/2025psqtr3-transcript.pdf
+
+Thank you, operator. Good morning and thank you all for joining our Third Quarter 2025
+earnings call. I am joined today by our Chief Executive Officer, Jane Fraser, and our Chief Financial Officer,
+Mark Mason.
+I'd like to remind you that today's presentation, which is available for download on our website,
+citigroup.com, may contain forward-looking statements which are based on management's current
+expectations and are subject to uncertainty and changes in circumstances. Actual results may differ
+materially from these statements due to a variety of factors, including those described in our earnings
+materials as well as in our SEC filings.
+And with that, I'll turn it over to Jane.
+Thank you, Jenn, and a very good morning to everyone. This morning, we reported another
+very good quarter with net income of $3.8 billion and earnings per share of $1.86, with an RoTCE of 8%.
+Now excluding the goodwill impairment from the Banamex transaction, our adjusted EPS was $2.24 with
+an adjusted RoTCE of 9.7%. Revenues were up 9% and every business had record third quarter revenue and
+improved returns. We continue to generate positive operating leverage for the firm and in each of our five
+businesses.
+The consistently strong results that we have been delivering are a consequence of how we have
+fundamentally changed the bank in recent years. We are running the businesses differently and capturing
+the synergies between them. We have added new senior leaders to compliment the excellent talent we
+already had. We are disciplined stewards of our shareholders’ capital, investing it where we should and
+returning what we don’t deploy. And the best part is, there is much more upside ahead.
+Turning to the businesses, Services had a record quarter, with revenues growing by 7%. Pleasing growth in
+Cross Border transactions and USD clearing reflects the sharp focus we have put on increasing fee revenue.
+AUCA grew 13%, reaching nearly $30 trillion. New client wins and share gains demonstrate the confidence
+our clients have in our ability to help them navigate a very dynamic global environment and to lead through
+innovation.
+Despite low volatility, Markets had a record third quarter. Revenues were up 15% as we continue to drive
+momentum and traction with clients. Activity in Rates was particularly high and Equities grew nicely, with
+continued progress in Prime where balances were up over 40%, complementing our historical strength in
+Derivatives.
+In Banking, increased clarity around tariffs and record equity prices fueled CEO confidence. We capitalized
+on this with investment banking fees up 17%, with continued growth across all products. On the back of
+our investment in talent, we improved our position in Tech, Healthcare, Consumer and with Sponsors. We
+continue to add talent to the team, which will help us deepen or establish relationships that will bear fruit
+over the next two to three years.
+Wealth had another good quarter with revenue up 8%, driven by Citigold and the Private Bank. Our
+emphasis on growing investment assets resulted in record Net New Investment Assets of $18.6 billion and
+Client Investment Assets increasing by 14%. We announced a new partnership with BlackRock where they
+will manage $80 billion of our clients’ assets, fully aligning to an open architecture strategy.
+USPB had record quarterly revenue of $5.3 billion, reaching twelve straight quarters of positive operating
+leverage, and delivered an RoTCE of over 14%. We drove momentum in Branded Cards with the wellreceived launch of our Citi Strata Elite card. And this quarter, we will introduce a new mid-tier product to
+round out the Citi/AAdvantage portfolio. It will elevate the travel experience for American Airlines
+customers and create access to premium benefits.
+In the Retail Bank, we continue to innovate, including by the launch of instant payments through FedNow
+and enabling digital issuance for Citibank debit cards. And the Retail Bank continues to strengthen as a
+pipeline to our Wealth Business, with $4 billion in deposits transferred in the quarter. Wealth is capitalizing
+on those transfers, and we continue to see improved investment penetration and significantly higher
+investment-related revenue from those customers.
+We returned over $6 billion in capital to our common shareholders during the third quarter. The $5 billion
+in share repurchases was $1 billion more than we guided, and this reflects our commitment to returning
+capital. Year-to-date, we have repurchased $8.75 billion of shares as part of our $20 billion repurchase
+plan. We ended the quarter at a Common Equity Tier 1 Capital ratio of 13.2%, over 100bps above our
+regulatory requirement at quarter-end.
+The agreement with Fernando Chico Pardo to purchase a 25% equity stake is a very significant step towards
+the divestiture of Banamex and progresses the overall timeline to deconsolidation and beyond. We are
+confident that this path is in the best interests of our stakeholders in terms of certainty and value. And we
+could not be more pleased to have Fernando, with his proven track record for investors, as our partner.
+As we simplify, we continue to invest in technology to catalyze our transformation and become a more agile
+and modern bank. We have been relentless in our execution, and it is creating results. Over two-thirds of
+our transformation programs are at or are close to our target state and we are making very good progress in
+the remaining areas. I am particularly pleased with the improvement in our controls this year through
+standardizing, automating and digitizing them.
+We continue to lead in digital payments innovation, enabling payments, clearing, and settlement
+capabilities that operate on an always on basis, across multiple borders and currencies. As networks evolve
+toward an always-on future, we are taking the next step by integrating Citi Token Services with our 24/7
+Clearing platform. Now this integration will allow Citi clients to seamlessly send funds to third-party banks
+real-time within our USD clearing network — and that’s delivering true interoperability across more than
+250 institutions.
+We are committed to embedding AI into how we work. Nearly 180,000 colleagues in 83 countries now have
+access to our proprietary AI tools and have used them almost 7 million times this year. These tools save
+hours each day by automating routine work, analyzing data and creating materials in minutes instead of 
+Our Services and USPB teams are using AI to resolve client inquiries faster. In Wealth, advisors are gaining
+real-time insights that help them deliver more personalized advice. And AI-driven automated code reviews
+have exceeded 1 million so far this year and are dramatically improving our developers’ productivity. This
+innovation alone saves considerable time and creates around 100,000 hours of weekly capacity – that’s a
+very meaningful productivity uplift.
+In September, we launched a pilot of Agentic AI for 5,000 colleagues. It allows complex, multi-step tasks
+to be completed with a single prompt. And the early results are very promising, and we’ll expand access to
+this in the months ahead.
+Finally, we have launched a firmwide effort to systematically embed AI in our processes end-to-end to drive
+further efficiencies, reduce risk and improve client experience.
+Taking a step back, the macro environment reflects a global economy that has proved more resilient than
+many anticipated. The U.S. continues to be a pacesetter, driven by consistent consumer spending as well
+as tech investments in AI and data centers. That said, there are pockets of valuation frothiness in the
+market so I hope discipline remains. But overall, while growth is cooling somewhat and we are keeping an
+eye on the labor market, America’s economic engine is indeed still humming.
+In Asia, China’s domestic spending has slowed. However, the investments they are making in technology
+are staggering and the world should take notice. India’s fundamentals of a young, tech-savvy labor force
+and robust domestic consumption continue to drive high growth there. But in Europe, structural challenges
+still need to be dealt with for the continent to escape this low-growth cycle. One certainty through all of
+this is our commitment and ability to serve our clients with excellence, no matter what challenge they face.
+As you can see, the steady and disciplined execution of our strategy is delivering better business
+performance quarter after quarter and improving our returns. The cumulative effect of what we have done
+over the past years – our transformation, our refreshed strategy, our simplification – have put Citi in a
+materially different place in terms of our ability to compete. We know success isn’t linear, but I am so proud
+of the progress our people have made and how things are coming together.
+We intend to end the year with momentum into 2026 as we close in on our medium-term return target. In
+terms of what will come next, we very much look forward to sharing that with you at our next Investor Day,
+which will be on May 7 of next year. There is still so much upside left for us to capture, and we look forward
+to laying out how we are going to do it.
+With that, I will turn it over to Mark and then we would be happy to take your questions.
+Thanks, Jane and good morning, everyone. I am going to start with the firmwide financial
+results, focusing on year-over-year comparisons unless I indicate otherwise, and then review the
+performance of our businesses in greater detail.
+On slide 6, we show financial results for the full firm. This quarter we reported net income of $3.8 billion, EPS
+of $1.86 and an RoTCE of 8.0% on $22.1 billion of revenues, generating positive operating leverage for the
+firm and each of our five businesses. On an adjusted basis, excluding the impact of a notable item consisting
+of the goodwill impairment that Jane mentioned earlier, we reported net income of $4.5 billion, EPS of $2.24
+and an RoTCE of 9.7%.
+Total revenues were up 9%, driven by growth in each of our businesses and Legacy Franchises, partially offset
+by a decline in Corporate/Other. Net interest income excluding Markets, which you can see on the bottom
+left side of the slide, was up 6%, driven by USPB, Services, Wealth, Legacy Franchises and Banking, partially 
+offset by a decline in Corporate/Other. Non-interest revenues excluding Markets were up 12%, as better
+results in Banking, Wealth and Legacy Franchises were partially offset by declines in Corporate/Other,
+Services and USPB. And total Markets revenues were up 15%.
+Expenses of $14.3 billion were up 9%, largely driven by the goodwill impairment I just mentioned. On an
+adjusted basis, expenses of $13.6 billion were up 3%.
+Cost of credit was $2.5 billion, primarily consisting of net credit losses in U.S. Cards as well as a firmwide net
+ACL build.
+Looking at the firm on a year-to-date basis; Total revenues were up 7%, driven by growth in each of our five
+businesses along with the benefit of foreign exchange translation, partially offset by a decline in All Other.
+Expenses, which have also been impacted by foreign exchange translation, were up 2%, and flat on an
+adjusted basis. We’ve generated positive operating leverage for the firm and each of our five businesses. And
+reported an RoTCE of 8.6%, and 9.2% on an adjusted basis.
+On slide 7, we show the expense and efficiency trend over the past five quarters. On an adjusted basis, this
+quarter we improved our efficiency ratio by approximately 360 basis points. The increase in adjusted
+expenses was driven by higher compensation and benefits, along with the impact of foreign exchange
+translation. As you can see on the bottom right side of the slide, the increase in compensation and benefits
+was driven by performance-related compensation, higher severance, and investments in transformation
+and technology, with productivity and stranded cost reduction partially offsetting continued growth in the
+businesses. Year-to-date, we have incurred approximately $650 million of severance, slightly above our
+original expectation for the full year. As we’ve said in the past, we are very focused on managing our expense
+base in a disciplined manner – reducing stranded costs and generating productivity savings to largely selffund investments in transformation, technology and the businesses. This discipline, combined with top-line
+revenue momentum will continue to drive improvement in our operating efficiency.
+On slide 8, we show consumer and corporate credit metrics. As I mentioned, the firm’s cost of credit was
+$2.5 billion, primarily consisting of net credit losses in U.S. cards as well as a firmwide net ACL build. Our
+reserves continue to incorporate an eight-quarter weighted average unemployment rate of 5.2%, which
+includes a downside scenario average unemployment rate of nearly 7%. At the end of the quarter, we had
+nearly $24 billion in total reserves, with a reserve-to-funded loans ratio of 2.7%. We continue to maintain a
+high credit quality card portfolio, with approximately 85% to consumers with FICO scores of 660 or higher,
+and a reserve to funded loan ratio in our card portfolio of 8.0%. And it's worth noting that across our U.S.
+cards portfolios, delinquency and NCL rates continue to perform in line with our expectations. Looking at the
+right-hand side of the slide, you can see that our corporate exposure is primarily investment grade, and while
+corporate non-accrual loans increased in the quarter, resulting from idiosyncratic downgrades, they remain
+low, as do corporate net credit losses. We feel good about the high-quality nature of our portfolios, which
+reflect our risk appetite framework and our focus on using the balance sheet in the context of the overall
+client relationship.
+Turning to capital and the balance sheet on slide 9, where I will speak to sequential variances. Our $2.6
+trillion balance sheet increased 1%, driven by growth in cash and loans. End-of-period loans increased 1%,
+driven by Markets and Services. Our $1.4 trillion deposit base remains well-diversified and increased 2%,
+driven by Services and Wealth. We reported a 115% average LCR and maintained over $1 trillion of available
+liquidity resources. We ended the quarter with a preliminary 13.2% CET1 Capital ratio, which is 110 basis
+points above our 12.1% regulatory capital requirement during the third quarter. Effective October 1, our new
+Standardized CET1 Capital ratio requirement is 11.6%, which incorporates the reduction in our SCB from 4.1%
+to 3.6%. That said, we are still waiting for clarity from the Federal Reserve on whether the averaging of SCB
+results from the previous two consecutive years will become effective in the next few months. Given this
+uncertainty, we will be targeting a Standardized CET1 ratio closer to 12.8%, which incorporates a two-year
+average SCB of 3.8%, as well as a 100-basis point management buffer. As we’ve said in the past, we remain
+very focused on efficient utilization of both Standardized and Advanced RWA while providing the businesses
+with the capital needed to pursue accretive growth opportunities. And we will continue to prioritize returning
+capital to shareholders through buybacks, as evidenced by the $5 billion of buybacks in the third quarter and
+nearly $9 billion year-to-date.
+Turning to the businesses on slide 10, we show the results for Services in the third quarter. Revenues were
+up 7%, driven by growth across both TTS and Securities Services. NII increased 11%, primarily driven by the
+increase in average deposit balances as well as higher deposit spreads. While NIR was down 3%, due to the
+impact of higher lending revenue share, total fee revenue was up 6%. We see very strong activity and
+engagement with corporate clients and momentum across underlying fee drivers, with cross-border
+transactions up 10%, U.S. Dollar Clearing Volume up 5% and Assets under Custody and Administration up
+13%, as we continue to roll out our innovative products and services with digital capabilities into new
+markets. Expenses increased 5%, primarily driven by higher compensation and benefits, including
+severance, as well as higher volume and other revenue-related expenses. Average loans increased 8%, driven
+by continued demand for trade loans, as we continue to support clients as they plan for potential shifts in
+trade corridors. Average deposits also increased 8%, with growth across both North America and
+International, largely driven by an increase in operating deposits. Services generated positive operating
+leverage for the fifth consecutive quarter and delivered net income of $1.8 billion with an RoTCE of 28.9% in
+the quarter and 26.1% year-to-date.
+Turning to Markets on slide 11. Revenues were up 15%, driven by growth across both Fixed Income and
+Equities. Fixed Income revenues increased 12%, with; Rates and Currencies up 15%, largely driven by growth
+in Rates amid policy uncertainty and elevated client activity. And Spread Products and Other Fixed Income
+was up 8%, largely driven by higher mortgage trading, higher financing activity and lower commodities
+activity. Equities revenues were up 24%, driven by higher client activity in Derivatives and increased volumes
+in Cash, as well as continued momentum in Prime with balances up approximately 44%. Expenses increased
+5%, primarily driven by higher compensation and benefits along with the impact of FX translation.
+Transactional and product servicing expenses were down as growth in transaction volumes was more than
+offset by efficiency actions. Average loans increased 24%, primarily driven by financing activity in Spread
+Products. Markets generated positive operating leverage for the sixth consecutive quarter and delivered net
+income of $1.6 billion with an RoTCE of 12.3% in the quarter and 13.5% year-to-date.
+Turning to Banking on slide 12. Revenues were up 34%, driven by growth in Corporate Lending and
+Investment Banking. Investment Banking fees increased 17%, with growth across all products. M&A was up
+8%, with momentum across several sectors, and with continued share gains with financial sponsors, and
+more sell-side activity. ECM was up 35%, with growth across all products, notably in convertibles given the
+favorable environment. And DCM was up 19%, driven by Leveraged Finance. Corporate Lending revenues,
+excluding mark-to-market on loan hedges, increased 39%, driven by an increase in lending revenue share.
+Expenses increased 2%, driven by higher volume-related transactional and product servicing expenses as
+well as compensation and benefits, which includes recent investments we’ve made in the business. Cost of
+credit was $157 million, which included a net ACL build of $148 million, driven by changes in portfolio
+composition, including exposure growth. Banking generated positive operating leverage for the seventh
+consecutive quarter and delivered net income of $638 million with an RoTCE of 12.3% in the quarter and
+10.7% year-to-date.
+Turning to Wealth on slide 13. Revenues were up 8%, driven by growth in Citigold and the Private Bank,
+partially offset by a decline in Wealth at Work. NII, which you can see on the bottom left side of the slide,
+increased 8%, driven by higher deposit spreads, partially offset by lower mortgage spreads. NIR increased
+9%, driven by higher investment fee revenues, as we grew client investment assets by 14%, despite a
+reduction of approximately $33 billion related to the sale of our trust business. We had record net new
+investment assets of $18.6 billion in the quarter and over $52 billion in the last 12 months, representing
+approximately 9% organic growth. Expenses increased 4%, driven by investments in technology and
+volume-related transactional and product servicing expenses, partially offset by continued productivity
+savings. End-of-period client balances continued to grow, up 8%. Average loans were up 1% as we continue
+to be strategic in deploying the balance sheet to support growth in client investment assets. Average
+deposits were flat, as operating outflows and a shift from deposits to higher-yielding investments on Citi’s 
+platform were offset by net new deposits as well as client transfers from USPB. Wealth had a pre-tax margin
+of 22%, generated positive operating leverage for the sixth consecutive quarter and delivered net income of
+$374 million with an RoTCE of 12.1% in the quarter and 12.5% year-to-date.
+Turning to U.S. Personal Banking on slide 14. Revenues were up 7%, driven by growth in Branded Cards and
+Retail Banking, partially offset by a slight decline in Retail Services. Branded Cards revenues increased 8%,
+driven by higher loan spreads, higher interest-earning balances, which were up 5%, and higher gross
+interchange, partially offset by higher rewards costs. We continue to see strong customer engagement, with
+spend volume also up 5%. Retail Banking revenues increased 30%, largely driven by the impact of higher
+deposit spreads and balances. And Retail Services revenues were down 1%, largely driven by higher partner
+payment accruals. Expenses were flat, as lower advertising and marketing expenses as well as compensation
+and benefits were offset by higher volume-related transactional and product servicing expenses. Cost of
+credit was $1.8 billion, driven by net credit losses in cards. Average deposits increased 6%, as net new
+deposits were partially offset by the client transfers to Wealth that I mentioned earlier. USPB generated
+positive operating leverage for the twelfth consecutive quarter and delivered net income of $858 million with
+an RoTCE of 14.5% in the quarter and 12.9% year-to-date.
+Turning to slide 15, we show results for All Other on a managed basis, which includes Corporate/Other and
+Legacy Franchises and excludes divestiture-related items. Revenues were down 16%, with a decline in
+Corporate/Other partially offset by an increase in Legacy Franchises. The decline in Corporate/Other was
+driven by lower NII, resulting from actions we have taken over the past few quarters to reduce the asset
+sensitivity of the firm in a declining rate environment, as well as lower NIR. Growth in Legacy Franchises was
+driven by Mexico, which included the impact of Mexican peso appreciation, partially offset by the impact of
+continued reduction from our exit and wind-down markets. Expenses increased 4%, with growth in
+Corporate/Other, which included higher severance, largely offset by a decline in Legacy Franchises. And cost
+of credit was $331 million, primarily consisting of net credit losses of $297 million, driven by consumer loans
+in Mexico. As you can see on the bottom right side of the slide, divestiture related expense items in the
+quarter included the $726 million goodwill impairment, which is capital neutral and based on the fair value
+of 100% of the entity.
+On slide 16 we provide an overview of the agreement with Fernando Chico Pardo to purchase a 25% equity
+stake in Banamex. This transaction progresses the overall timeline to exit Banamex but is subject to certain
+closing conditions and local regulatory approvals. Before I walk through the financial impacts related to this
+stake at closing, I’d like to ensure you understand the net capital impact at a full exit. The cumulative capital
+benefit to Citi upon full exit will be driven by two things, one, the capital release associated with the RWA
+reduction and, two,the cumulative impact of any potential gains and losses on sales. However, between now
+and then, there will be a few steps to get there. And it starts with this transaction. So, looking at the righthand side of the page, at the time of close and subject to the book value of Banamex at closing, we expect
+assets to increase by approximately $2.3 billion for the total consideration paid for the 25% stake, which
+reflects the fixed price-to-book value multiple of 0.80. And total equity will also increase by a net $2.3 billion,
+but it will be driven by a few factors. First, there will be a temporary benefit to stockholders’ equity due to the
+reclassification of the negative cumulative translation adjustment from stockholders’ equity to noncontrolling interest, which will be slightly offset by the loss on sale. Second, the non-controlling interest will
+increase by the 25% of the Banamex book value sold, but this will be largely offset by the CTA that was
+reclassified as part of this transaction. So net net – a $2.3 billion increase in assets, and on the equity side, a
+$1.8 billion increase in stockholders’ equity and a $500 million increase in non-controlling interest. At
+deconsolidation, there will be balance sheet impacts and P&L impacts. As it relates to the balance sheet, all
+of Banamex’s assets and liabilities will be removed from our balance sheet and be partially offset by any
+remaining equity stake. In terms of the P&L, the entire amount of the cumulative translation adjustment
+related to Banamex, which is approximately $9 billion, will flow through the P&L as a loss, and will reverse
+the temporary capital benefit from prior sales. Therefore at deconsolidation, the cumulative impact of CTA
+is capital neutral. So, to wrap it up, while there are a number of accounting nuances between now and full
+exit, the cumulative capital impact to Citi will be the full release of RWA associated with Banamex and the
+cumulative impact of any potential gains and losses on sales.
+Turning to the full year 2025 outlook on slide 17. Before I get into the outlook, I want to say how proud I am
+of the company as we execute against our strategy and drive top-line revenue growth which continues to be
+fueled by our investments across the businesses and in key areas such as technology and data. We’ve made
+significant progress in terms of improving returns, with an adjusted year-to-date RoTCE of 9.2%. So now
+with regard to the outlook, given the very strong year-to-date top-line revenue growth of 7%, we remain
+confident in our ability to exceed $84 billion in revenues for the year. We now expect NII ex-Markets to be up
+around 5.5% for the full year, incorporating stronger performance as well as the impact of FX relative to our
+previous expectations. For NIR ex-Markets, we expect continued momentum in underlying fee drivers. And
+in Markets, historically we have seen revenues decline 15-20% from the third to the fourth quarter, however
+given the strong performance in the third quarter, the sequential decline could exceed that range this year.
+Now turning to expenses, our year-to-date expense base incorporates both the level and mix of revenue
+we’ve seen, as well as the impact of FX. And given what I just mentioned about revenues, full year expenses
+will come in higher than we previously guided. However you should expect the efficiency ratio for the full year
+to be consistent with the revenue and expense guidance that we’ve provided during the course of the year,
+which is slightly below 64%, excluding the impact of the goodwill impairment this quarter. In terms of credit,
+our expectations for the year remain unchanged. And we will continue to repurchase shares in the fourth
+quarter under our $20 billion program. As we take a step back, the performance in the quarter, and so far this
+year, represent significant progress towards our goal of improved firmwide and business performance. We
+remain steadfast and focused on executing on our transformation, achieving our RoTCE target of 10 to 11%
+next year and further improving returns over time.
+And with that, Jane and I would be happy to take your questions.

@@ -1,0 +1,329 @@
+Date: 2025-10-28
+URL: https://s1.q4cdn.com/050606653/files/doc_financials/2025/q4/CORRECTED-TRANSCRIPT_-Visa-Inc-V-US-Q4-2025-Earnings-Call-28-October-2025-5_00-PM-ET.pdf](https://s1.q4cdn.com/050606653/files/doc_financials/2025/q4/CORRECTED-TRANSCRIPT_-Visa-Inc-V-US-Q4-2025-Earnings-Call-28-October-2025-5_00-PM-ET.pdf
+
+Thank you. Good afternoon, everyone, and welcome to Visa's fiscal fourth quarter and full year 2025 earnings
+call. Joining us today are Ryan McInerney, Visa's Chief Executive Officer; and Chris Suh, Visa's Chief Financial
+Officer.
+This call is being webcast on the Investor Relations section of our website at investor.visa.com. A replay will be
+archived on our site for 30 days. A slide deck containing financial and statistical highlights has been posted on our
+IR website.
+Let me also remind you that this presentation includes forward-looking statements. These statements are not
+guarantees of future performance and our actual results could differ materially as the result of many factors.
+Additional information concerning those factors is available in our most recent Annual Report on Form 10-K and
+any subsequent reports on Forms 10-Q and 8-K, which you can find on the SEC's website and the Investor
+Relations section of our website.
+Our comments today regarding our financial results will reflect revenue on a GAAP basis and all other results on a
+non-GAAP nominal basis unless otherwise noted. The related GAAP measures and reconciliation are available in
+today's earnings release and related materials available on our IR website.
+And with that, let me turn the call over to Ryan.
+Thanks, Jennifer. We finished fiscal full year 2025 with strong financial performance, an ever-growing obsession
+for our clients and a sharp focus on innovation as we build the future of payments.
+Fiscal fourth quarter net revenue grew 12% year-over-year to $10.7 billion, and EPS was up 10%, resulting in full
+year net revenue and EPS year-over-year growth of 11% and 14%, respectively.
+Total full year payments volume was $14 trillion, up 8% year-over-year in constant dollars, and processed
+transactions totaled 258 billion, up 10% year-over-year. Our financial performance and growth demonstrate how
+Visa has become a hyperscaler, enabling anyone that wants to be in the money movement or payments business
+to build on top of the Visa as a Service stack.
+You may recall the layers of the stack, the foundation layer, the services layer, the solutions layer, and the access
+layer. Throughout 2025 and most recently in Q4, we have intensified our investment in innovation.
+Today, I want to highlight Visa's progress with our clients and the ecosystem at large, across the Visa as a
+Service stack, starting with the foundation layer. At the foundation of the stack is our global connectivity, our
+network, and our network of networks that enable global commerce and money movement.
+In full year 2025, we expanded our network of networks in three important ways. First, more connection points.
+Visa's network of networks now has approximately 12 billion endpoints, that's about 4 billion cards, bank
+accounts, and digital wallets each.
+Second, more settlement currencies. We are adding support for four stablecoins running on four unique
+blockchains representing two currencies that we can accept and convert to over 25 traditional fiat currencies.
+And third, we have begun deployment of the next generation of VisaNet, the core processing platform in our Visa
+as a Service stack. It offers a cloud-ready microservices-distributed modular architecture that uses open
+languages and technologies, enabling easier scaling, configuration and faster feature deployment.
+Over half of the new code base was built with the assistance of generative AI, improving development speed,
+security and maintainability. We have specific modules in market today with plans to roll-out additional modules
+and markets.
+The next level of the Visa as a Service stack is our services layer, which encompasses the building blocks of our
+core capabilities, including credentials, tokens, authentication, risk management, fraud detection and more, which
+we've turned into discrete modular components. We grew the number of Visa credentials by 270 million this year,
+and we continue to sign many deals this past quarter to drive further growth.
+I'll share a few regional highlights. We are pleased to have renewed our nearly 60-year relationship with Barclays
+in the UK and the US across their millions of customers in consumer and commercial issuing and acquiring, and
+enabling increased focus on value-added services utilization.
+In the US, Visa continues to be the exclusive payment network for the Southwest Airlines co-brand program, and
+we will soon be expanding our relationship into a co-brand debit offering, providing customers a new way to earn
+Rapid Rewards points on everyday purchases.
+In Latin America, we won the new Scotiabank Wealth Management credit card issuance with our Visa Infinite
+product across seven countries. And in Mainland China, one of our largest clients, China Merchants Bank has
+renewed their long-standing relationship with us as we continue to upgrade China's mag-stripe dual-branded
+cards to contactless EMV chip cards.
+Moving to tokens. We now have over 16 billion Visa tokens, up from 10 billion just in May of 2024. We continue to
+increase the amount of Visa tokens globally in pursuit of our ultimate goal of 100% of e-commerce transactions
+tokenized.
+We continue to enhance our risk management capabilities, including Visa Scam Disruption which proactively
+detects scam activity at the network level that no single issuer, acquirer or merchant could see alone and
+leverages AI, enhanced merchant monitoring, external intelligence feeds and our global expertise.
+Just a year since launch, we have worked closely with our clients and law enforcement to dismantle more than
+25,000 scam merchants representing more than $1 billion in fraud attempts.
+Our stablecoin platform is another key component of our services layer. Since 2020, we've facilitated over $140
+billion in crypto and stablecoin flows, including Visa users purchasing more than $100 billion of crypto and
+stablecoin assets using their Visa credentials and spending more than $35 billion in crypto and stablecoin assets
+using Visa credentials.
+Within this, we see particular momentum with stablecoins. We now have more than 130 stablecoin-linked card
+issuing programs in over 40 countries. And in Q4, stablecoin-linked Visa card spend quadrupled versus a year
+ago. We expanded the number of stablecoins and blockchains available for settlement and monthly volume has
+now passed a $2.5 billion annualized run rate.
+We are starting to enable banks to mint and burn their own stablecoins with the Visa Tokenized Asset Platform,
+and we are adding stablecoin capabilities to enhance cross-border money movement with Visa Direct.
+In September 2025, we announced a stablecoin prefunding Visa Direct pilot targeting banks, remitters, and
+financial institutions seeking faster, more flexible ways to manage liquidity, and there is much more to come in this
+space.
+The next level of the Visa as a Service stack is our solutions layer, a comprehensive portfolio of solutions where
+we have taken the componentized capabilities from the services layer and invested in and enhanced them to
+create new features and capabilities we deliver to a broader array of customers and partners.
+If we look across our growth levers in this layer, I would note progress in a number of areas. In consumer
+payments, Visa Intelligent Commerce integrates Visa's token technology with authentication and predictive
+analytics, empowering partners to deploy secure, personalized digital commerce experiences.
+And I'm pleased to announce that we are now powering live agentic transactions and recently released a
+merchant agent toolkit to make it easy for developers to embed our solutions into workflows and agentic
+processes.
+Just two weeks ago, we announced the Visa Trusted Agent Protocol, a framework that enables safer agent-driven
+checkout by helping merchants verify agents and avoid malicious bots. And since it's built on existing messaging
+standards, minimal integration is required for merchants.
+Next, our Visa Flex Credential continues to gain momentum, enabling consumers to access many underlying
+funding sources with a single credential powered by Visa Token technology. For example, the Klarna Card
+launched in 15 European markets, building on its success in the US where it had over 1 million sign-ups in less
+than three months, and they will expand to even more markets soon.
+Our Visa Flex pipeline is strong, and we now have more than 20 signed clients in more than 20 countries across
+all regions, including our first Visa Flex announcement in LAC with N1CO.
+Our Visa Accept Solution enables even the smallest of sellers to accept card payments with just a Visa debit card
+and an NFC-capable smartphone. Our first live launch of Visa Accept was in Sri Lanka, which represents an
+opportunity to bring an estimated 7 million sellers onto the Visa network, most of which are informal sellers who 
+primarily transact in cash today. And this is just our first launch. We are targeting 25 countries across several
+regions where we expect to launch Visa Accept soon with even more expansion to follow.
+Our Visa Pay solution connects any participating wallet to any Visa-accepting seller worldwide, local or
+international, in-store or online. We are pleased to now be processing live Visa Pay transactions in four markets
+across AP and CEMEA, including our recently announced market launch in the Democratic Republic of Congo. In
+addition, we have a pipeline with more than 70 clients to expand across more markets in 2026 and beyond.
+Rounding out consumer payments is Tap to Everything. 79% of all face-to-face transactions are taps, up 8
+percentage points this year with the US at 66%. Our transit initiatives contributed to this expansion, and this year,
+we enabled more than 100 new transit systems to now total approximately 1,000 systems globally, delivering 19%
+year-over-year growth in transactions.
+In Europe, BBVA recently launched BBVA Pay, enabling tapping from an iOS device for all Visa cards within their
+banking app. They also have enabled customers to use AI to create their own personalized Visa cards starting in
+Spain.
+Tap to Phone which provides an easy, low-cost method for micro sellers to begin accepting card payments or
+large sellers to add additional mobile terminals has now passed 20 million transacting devices, more than
+doubling since last year with strong growth across all regions.
+And Tap to Add Card, launched a little over a year ago, has strong adoption as consumers and our partners see
+the value of a simplified, more secure customer experience where a simple card tap to a mobile device can add a
+Visa credential to a digital wallet.
+Since Q3, we have doubled the count of issuers participating globally to more than 600 across all regions,
+resulting in the service being live for more than 1.4 billion Visa credit and debit cards around the world.
+Shifting to CMS and starting with Visa Commercial Solutions, our full year 2025 commercial payments volume
+grew 7% in constant dollars to $1.8 trillion. This was helped by targeting specific segments, including business
+owners and online travel agencies.
+In the premium card segment, we supported Chase with the launch of Chase Sapphire Reserve for business on
+Visa Infinite, an expansion of the Sapphire Reserve product line. The Sapphire Reserve for Business Card is
+designed to meet the needs of business owners by elevating their travel experience and offering premium
+benefits and value toward business services to help fuel their growth.
+And also in the US, we are excited to have partnered with Truist to launch the Truist Business Premium Visa
+Infinite card, a premium credit card designed for small businesses with meaningful annual spend. They are the
+first super-regional to do so in this country.
+Our purpose-built travel solution offers virtual card credentials, automated reconciliation and rich data. We
+recently won Trip.com's global virtual travel card issuing business, which will be issued through their fintech
+TripLink.
+In our traditional carded business, our global network agnostic enhanced spend management capabilities have
+helped us to expand our partnership with BMO. We recently won new commercial issuance and BMO will offer
+our Spend Clarity for Enterprise tool to their corporates in the US and Canada.
+Our unique FX capabilities enabled us to win a de novo issuing relationship with ICICI Bank for India's first
+Corporate Forex Prepaid Card, targeting both SMBs and large corporates to meet foreign exchange payment
+needs for business travel. In fact, in India, Visa SMB cards have doubled since 2020 and now total more than 10
+million, helping us to grow total commercial cards to 340 million worldwide.
+Moving on to Visa Direct, which reached 12.6 billion transactions in full year 2025, up 27% year-over-year. Our
+push to account and wallet funding capabilities continue to help us to expand cross-border payouts. We signed
+with KCB in East Africa, where they will use Visa Direct to Account for eight corridors across the more than 30
+million individual and business customers.
+Touch 'n Go eWallet, the largest wallet in Malaysia with more than 24 million users will leverage Visa Direct to
+enable tourists to fund their wallets across eight corridors. And Al Rajhi, a leading remitter with the largest branch
+network in the Kingdom of Saudi Arabia, expanded on its Visa Direct to card usage to now include Visa Direct to
+Account.
+And our interoperability capabilities, unlocked through our YellowPepper acquisition, enabled us to renew with
+Yape and Plin, securing our position as the leader for interoperable transactions in Peru.
+Now, moving to value-added services where we have seen our innovations across issuing, acceptance, risk and
+advisory continue to power our growth. We have achieved our goal to expand Pismo's offerings to clients in more
+than five countries across four regions in 2025. In the fourth quarter, we signed our first Pismo deal for a
+stablecoin-linked card with Gnosis Pay in Europe.
+In Acceptance Solutions, our Token Management Service, or TMS, provides a single network and payment
+service provider agnostic integration to simplify token adoption, access, and management for merchants and
+acquiring clients. This quarter, we signed with Booking.com for TMS and Account Updater across more than 65
+markets, deepening our presence in the online travel platform space.
+Many of our risk and security solutions are also network agnostic. Let me highlight a few points of progress. Visa
+Advanced Authorization evaluates more than 400 unique attributes in a few milliseconds, and this quarter, Banco
+Diners in Ecuador deployed our network agnostic solution to score both Visa and non-Visa transactions, the first
+bank in LAC to do so.
+Our award-winning product, Visa Protect for A2A is delivering value with AI. Our pilot in Brazil scored nearly $500
+billion of our bank partners' Pix volume over a six-month period and identified over $90 million of fraud, which
+could have been prevented with a detection rate of more than 80%.
+We believe Visa Protect for A2A can play an important role in Brazil by providing real-time fraud monitoring on
+Pix, helping to reduce fraud for our bank partners, and ensure a safer payment experience for buyers and sellers.
+Our most recently acquired risk capabilities from Featurespace are being sought after by our clients with more
+than 100 closed client deals since January. And our Advisory Services continued to deliver revenue and deepen
+our client relationships across Visa.
+In Consulting, we estimate that we help clients realize over $6.5 billion of incremental revenue as a result of
+delivering almost 4,500 engagements during the year, including GenAI and stablecoin engagements.
+In Marketing Services, our flagship sponsorships include the FIFA World Cup 2026 in the US, Canada, and
+Mexico as well as the Olympic and Paralympic Winter games in Milano Cortina. We are already seeing significant
+interest from our clients as they seek to offer unique cardholder experiences and build their brand in addition to
+helping drive issuance, acceptance and engagement.
+One Olympic and Paralympic related marketing example was our first large-scale campaign created using
+generative AI tools for Intesa Sanpaolo which showcased a ski race down the streets of Italy's seaside villages.
+We already have over 35 clients engaged with us for marketing services for the 2026 Olympic and Paralympic
+Games and more than 70 for the FIFA World Cup 2026 with more than 100 already in our pipeline.
+The fourth and final layer of the Visa as a Service stack on top of the foundation layer, the services layer, and the
+solutions layer is the access layer, the client entry point to access Visa solutions. We take an open partnership
+approach and seek to provide value by enabling access to our Visa as a Service stack through multiple
+integration methods, including custom integrations, programmatic access via APIs and structured data exchange
+through our Model Context Protocol, or MCP server.
+We remain the payments platform of choice in full year 2025 with more than 700 billion API calls across our more
+than 3,700 endpoints. And we recently launched our MCP server, providing access for AI systems to interface
+with our Visa Intelligent Commerce APIs.
+Our open, flexible access layer enables anyone whether a small business, a tech partner or a global bank to build
+on top of the Visa as a Service stack and operate at scale instantly.
+In conclusion, you can see our intense focus on innovation is delivering results for Visa and our clients. The Visa
+as a Service stack has positioned Visa to be a hyperscaler for the payments ecosystem. Our strong fiscal year
+2025 performance is a result of our products resonating in the market and our commitment to our clients to our
+clients every day.
+I want to thank our more than 34,000 employees around the world who will continue to obsess about our clients
+and work tirelessly in 2026 and beyond to deliver value through the Visa as a Service stack to our clients and
+across our partner ecosystem.
+We live in remarkable times in payments, as technologies are converging to reshape commerce. And at Visa, with
+our clients, partners, sellers and consumers we are keeping our focus on innovation and product development,
+positioning Visa to lead this transformation.
+Now to Chris, where he will discuss our financial performance and outlook for 2026.
+Thanks, Ryan, and good afternoon, everyone. Building on the momentum we saw through the first three quarters,
+we had a very good Q4 to finish the year with continued strong and stable business drivers. In constant dollars,
+global payments volume was up 9% year-over-year improving slightly from Q3. Cross-border volume excluding
+Intra-Europe was up 11% and total processed transactions grew 10%, both relatively stable to Q3.
+Fiscal fourth quarter net revenue was up 12% year-over-year, better-than-expected, primarily due to value-added
+services revenue, commercial and money movement solutions revenue, and a benefit from FX. Fourth quarter net
+revenue was up 11% in constant dollars
+EPS was up 10% year-over-year in both nominal and constant dollars, better-than-expected, primarily due to
+better-than-expected net revenue.
+Let's go into the details. Total international payments volume was up 10% year-over-year in constant dollars in
+Q4, generally consistent with Q3. Of note, we saw acceleration in Asia-Pacific of approximately 2.5 points on a
+constant dollar basis, driven by timing effects and a modest improvement in Mainland China.
+US payments volume was up 8%, slightly above Q3, with ecommerce growing faster than face-to-face spend.
+Credit and debit were both up 8%, reflecting resilience in consumer spending.
+When we look at quarterly spend category data in the US, we saw a broad-based strength, including
+improvements in retail services and goods, travel, and fuel. Both discretionary and non-discretionary spend were
+up from Q3. And growth across consumer spend bands remained relatively consistent with Q3 with the highest
+spend band continuing to grow the fastest.
+Now, to cross-border volume, which I'll speak to in constant dollars and excluding Intra-Europe transactions. Q4
+total cross-border volume was up 11% year-over-year relatively stable to last quarter, with ecommerce up 13%,
+and travel improving sequentially to 10%.
+Ecommerce remained strong as it has for the last eight quarters now, and still represented about 40% of our total
+cross-border volume. Travel spend continued to grow above pre-COVID levels. The slight step-up from Q3 was
+led by a combination of factors, including increased commercial volumes, helped by our efforts in virtual card and
+some improvement in CEMEA outbound due to holiday timing.
+With that as a backdrop, I'll move to discuss our financial results. Starting with the revenue components. Service
+revenue grew 10% year-over-year versus the 8% growth in Q3 constant dollar payments volume, primarily due to
+card benefits and pricing. Data processing revenue grew 17% versus the 10% growth in processed transactions,
+primarily due to pricing and higher cross-border transaction mix.
+International transaction revenue was up 10%, below the 11% increase in constant dollar cross-border volume
+growth, excluding Intra-Europe, primarily due to mix, partially offset by exchange rates.
+Other revenue grew 21%, primarily driven by growth in advisory and other value-added services and pricing.
+Client incentives grew 17%, in line with our expectations, as we lapped one-time adjustments from Q4 of fiscal
+2024.
+Now to our three growth engines. Consumer payments revenue was driven by strong payments volume, crossborder volume, and processed transaction growth. Commercial and money movement solutions revenue grew
+14% year-over-year in constant dollars as we lap the one-time adjustment we saw in Q4 FY 2024. CMS revenue
+was better-than-expected, driven primarily by our Commercial Solutions business.
+Commercial payments volume grew 10% in constant dollars, 3 points above Q3 growth and faster than Visa's
+overall payments volume growth primarily due to new portfolio wins and the lapping of certain portfolio losses with
+strong client performance, especially in cross-border.
+Visa Direct transactions grew 23% to 3.4 billion transactions with strength in both domestic and cross-border.
+Value-added services revenue grew 25% in constant dollars to $3 billion driven by issuing solutions, advisory and 
+other services and pricing. Value-added services revenue growth was better-than-expected, primarily due to
+issuing solutions, both in network products and card benefits.
+Operating expenses grew 13%, above our expectations due to a larger-than-expected FX impact and higher-thanexpected personnel expenses as a result of deferred compensation mark-to-market, which as a reminder is EPS
+neutral. Excluding those two factors, adjusted operating expense growth would have been as expected.
+Non-operating income was $29 million, higher than expected due to investment income from the deferred
+compensation mark-to-market benefit that offsets the expense I just mentioned, and higher returns on our
+investments.
+Our tax rate for the quarter was 18.8%, in line with expectations. EPS was $2.98, up 10% year-over-year with
+minimal impacts from exchange rates and acquisitions. In Q4, we bought back approximately $4.9 billion in stock
+and distributed $1.1 billion in dividends to our shareholders. We also funded the litigation escrow account by $500
+million, which has the same effect on EPS as a stock buyback.
+At the end of September, we had $24.9 billion remaining in our buyback authorization. With a strong finish to the
+fiscal year, our full year net revenue grew 11% to $40 billion, and EPS grew 14% to $11.47.
+Full year 2025 CMS revenue growth was 15% and value-added services revenue growth was 23% on a constant
+dollar basis. In a year marked by a significant step-up in uncertainty around the globe, we delivered strong results,
+above our expectations.
+As we think about 2026, our guidance philosophy holds. We give you our best perspective based on current
+information. So, let's get into the guidance details. And a quick note, when I reference 2025 and 2026, I am
+referring to our fiscal years.
+First, let's cover our underlying assumptions for net revenue growth. As we regularly say, we are not economic
+forecasters. So, we're assuming the macroeconomic environment stays generally where it is today and consumer
+spending remains resilient.
+On key business drivers, we are assuming no material change from the Q4 2025 growth levels in 2026. On
+pricing, for 2026, we expect the benefits of new pricing to be similar in magnitude and timing as in 2025, with the
+majority going into effect in the back half. When you combine that with the 2025 pricing timing, this implies a
+relatively uniform contribution each quarter, with Q1 seeing the largest contribution.
+On incentives, we expect around 20% of our payments volume to be impacted by renewals this year, which
+implies incentive growth generally similar to 2025, with Q3 having the toughest comparable to 2025.
+On volatility, we expect volatility throughout the year to be generally consistent to where we exited Q4, which
+implies a drag for the first three quarters, with Q3 having the toughest comparable to 2025.
+We pull these assumptions together on an adjusted basis defined as non-GAAP results in constant dollars and
+excluding acquisition impacts. You can review these disclosures in our earnings presentation for more detail.
+In 2026, we expect full year adjusted net revenue growth to be in the low-double digits. On a nominal basis, we
+expect an approximately 0.5 point benefit from FX, which implies nominal net revenue growth that is generally
+consistent with fiscal 2025, which was 11%.
+We have an exciting year with the Olympic and Paralympic Games in Q2 and the FIFA World Cup in Q3 and Q4.
+I'll speak to expense in a moment, but as far as net revenue impacts, we expect the benefit from value-added
+services to be spread throughout the year as our clients will utilize our solutions in the buildup to and during the
+events.
+In terms of quarterly variability of net revenue, two items I would call out. First, we expect Q1 to have the highest
+year-over-year net revenue growth rate, primarily due to the timing impact of our FY 2025 pricing actions. Second,
+we expect Q3 to have the lowest year-over-year net revenue growth rate, primarily due to the lapping impacts of
+strong volatility and lower-than-expected incentives in Q3 of 2025.
+Now, moving to expenses. We expect to continue our significant investments in our Visa as a Service stack
+across consumer payments, commercial and money movement solutions, and value-added services in FY 2026.
+Let me share a few examples.
+Within consumer payments, we will enhance our cross-border and affluent offerings, scale recently launched
+products and expand our stablecoin capabilities, in addition to utilizing our marketing dollars for both the Olympics
+and FIFA to amplify the Visa brand.
+Within CMS, we'll focus our investments in specific commercial vertical opportunities and build out new Visa
+Direct product capabilities, focused on cross-border money movement. And within VAS, we'll invest in our product
+development, as well as our sales engineering teams to deepen customer engagement and shorten deal cycles.
+In addition, we're also investing in our AI efforts. In fact, every leader at the company has AI targets to drive
+efficiencies that we intend to invest back in the business to further our differentiation, competitive advantage, and
+drive long-term growth.
+We currently expect to grow adjusted operating expense in the low-double digits, consistent with our net revenue
+growth. As we think about the cadence of spend, we expect Q2 and Q3 to have the largest year-over-year growth
+rates as a result of marketing expense related to the Olympics and FIFA.
+Now, moving to non-operating income. The non-operating income we've had for the past three years has been a
+function of cash balances, interest rates and one-time items. In 2026, based on current interest rate forward
+curves, we now expect non-operating expense of $125 million to $175 million.
+Now to our non-GAAP tax rate. You may recall that we've historically estimated our long-term tax rate to be
+between 19% and 20%, and this remains unchanged. In both fiscal 2024 and 2025, our actual tax rate was below
+18%, helped primarily by our geographic mix of earnings and certain onetime benefits, such as the resolution of
+tax matters and positions taken on certain taxes.
+In 2026, we still expect to be below our long-term tax rate. When we incorporate our current tax planning
+strategies, we expect the tax rate to be between 18.5% and 19%, up from 2024 and 2025, primarily due to the
+absence of one-time benefits.
+On capital return, the board has declared an increase to our quarterly dividend by 14%, and we intend to return
+excess free cash flow to shareholders through buybacks. All of this results in our adjusted EPS growth to be in the
+low double-digits.
+Moving to Q1. Through October 21, with volume growth in constant dollars, US payments volume was up 7% with
+credit and debit both up 7%. Processed transactions grew 9% year-over-year. For constant dollar cross-border
+volume, excluding transactions within Europe, total volume grew 12% year-over-year, with ecommerce up 14%
+and travel up 11%.
+Now on to our financial expectations. We expect Q1 adjusted net revenue growth in the high end of low doubledigits. We expect adjusted operating expense growth in the low double-digits.
+Non-operating expense is expected to be about $15 million. And our tax rate in the first quarter is expected to be
+around 18%. As a result, we expect adjusted first quarter EPS growth to be in the low-teens.
+When we look on a nominal basis for net revenue growth in Q1 we expect an approximately 0.5 benefit from FX.
+And for our expense growth, we expect an approximately 0.5 point drag from FX and a 1 point impact from
+acquisitions, which taken together result in nominal net revenue and expense growth that are more matched at
+the high end of low double-digits.
+As always, if the environment changes, and there are events that impact our business, we will remain flexible and
+thoughtful on balancing short and long-term considerations.
+Visa's underlying business continues to be healthy and the growth opportunities are significant, together giving us
+conviction as we make investment decisions to build the future of payments to drive compelling net revenue and
+earnings per share growth.
