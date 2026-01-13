@@ -17,9 +17,9 @@ COMPANY_TICKER_MAP = {
     "HSBC": "HSBA.L",
     "ING": "INGA.AS",
     "Julius Baer": "BAER.SW",
-    "Bank Of America": "BAC",
+    "BankOfAmerica": "BAC",
     "Citigroup": "C",
-    "JP Morgan Chase": "JPM",
+    "JPMorganChase": "JPM",
     "Visa": "V",
 }
 
