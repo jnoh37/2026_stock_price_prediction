@@ -33,6 +33,10 @@ VOCAB = sorted(set(LAYOFF_KEYWORDS + AI_KEYWORDS))
 # =========================
 
 def load_events(jsonl_paths: list):
+    """
+    Loads text content and metadata from multiple JSONL files.
+    Appends '_conference_call' to company_name if title is missing.
+    """
     texts = []
     meta = []
 
@@ -48,11 +52,22 @@ def load_events(jsonl_paths: list):
                 if not line.strip(): continue
                 data = json.loads(line)
                 content = data.get("content", "")
+                
                 if content:
+                    original_title = data.get("title")
+                    company_name = data.get("company_name")
+                    
+                    if original_title:
+                        final_title = original_title
+                    elif company_name: # Append suffix if it's a conference call (company_name only)
+                        final_title = f"{company_name}_conference_call"
+                    else:
+                        final_title = None
+
                     texts.append(content)
                     meta.append({
                         "date": data.get("date"),
-                        "title": data.get("title") or data.get("company_name"), # title 없으면 company_name 사용
+                        "title": final_title,
                         "url": data.get("url")
                     })
     return texts, meta
