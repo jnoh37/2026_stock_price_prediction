@@ -32,22 +32,29 @@ VOCAB = sorted(set(LAYOFF_KEYWORDS + AI_KEYWORDS))
 # 2. Load texts from JSONL
 # =========================
 
-def load_events(jsonl_path: str):
+def load_events(jsonl_paths: list):
     texts = []
     meta = []
 
-    with open(jsonl_path, "r", encoding="utf-8") as f:
-        for line in f:
-            data = json.loads(line)
-            content = data.get("content", "")
-            if content:
-                texts.append(content)
-                meta.append({
-                    "date": data.get("date"),
-                    "title": data.get("title"),
-                    "url": data.get("url")
-                })
-
+    for path in jsonl_paths:
+        p = Path(path)
+        if not p.exists():
+            print(f"Warning: File {path} not found. Skipping...")
+            continue
+            
+        print(f"Loading: {path}")
+        with open(p, "r", encoding="utf-8") as f:
+            for line in f:
+                if not line.strip(): continue
+                data = json.loads(line)
+                content = data.get("content", "")
+                if content:
+                    texts.append(content)
+                    meta.append({
+                        "date": data.get("date"),
+                        "title": data.get("title") or data.get("company_name"), # title 없으면 company_name 사용
+                        "url": data.get("url")
+                    })
     return texts, meta
 
 
@@ -108,15 +115,22 @@ def save_results(meta, layoff_score, ai_score, output_path):
 # =========================
 
 if __name__ == "__main__":
-    INPUT_JSONL = "data/processed_data/events.jsonl"
+    INPUT_FILES = [
+        "data/processed_data/events.jsonl",
+        "data/processed_data/events_conf.jsonl"
+    ]
     OUTPUT_JSONL = "data/processed_data/event_signals.jsonl"
 
-    texts, meta = load_events(INPUT_JSONL)
-    X, feature_names = run_tfidf(texts)
-    layoff_score, ai_score = build_signal_scores(X, feature_names)
+    texts, meta = load_events(INPUT_FILES)
+    
+    if not texts:
+        print("No text data found. Check your input files.")
+    else:
+        X, feature_names = run_tfidf(texts)
+        layoff_score, ai_score = build_signal_scores(X, feature_names)
 
-    save_results(meta, layoff_score, ai_score, OUTPUT_JSONL)
+        save_results(meta, layoff_score, ai_score, OUTPUT_JSONL)
 
-    print("Done.")
-    print("Documents processed:", len(texts))
-    print("Vocabulary used:", feature_names.tolist())
+        print("Done.")
+        print("Documents processed:", len(texts))
+        print("Vocabulary used:", feature_names.tolist())
