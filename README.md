@@ -4,32 +4,35 @@ An extensible, interpretable NLP framework for modeling how corporate announceme
 
 This project focuses on how specific announcement themes (e.g. layoffs, AI adoption) are associated with short-term stock price reactions, rather than black-box text embeddings.
 
-# 🔍 Project Overview
+---
+
+## 🔍 Project Overview
 
 Corporate announcements often contain signals that influence short-term market reactions.
 This project builds an end-to-end, interpretable NLP pipeline that:
 
-Extracts thematic text signals (Layoff intensity & AI adoption)
+* Extracts thematic text signals (Layoff intensity & AI adoption)
+* Aligns announcements with actual stock price movements
+* Trains a logistic regression model to estimate the probability of price increase
+* Provides web interfaces for **data intake**, **prediction**, and **admin-controlled retraining**
 
-Aligns announcements with actual stock price movements
+Conference call transcripts from major US / EU financial institutions are used to expand the event dataset.
 
-Trains a logistic regression model to estimate the probability of price increase
+---
 
-Provides a web interface for real-time text-based inference
+## 🧠 Key Idea
 
-Integrates conference call transcripts from major US financial institutions (sourced from official websites) to expand the event dataset.
+Instead of using opaque embeddings, this project adopts a **hypothesis-driven NLP approach**:
 
-# 🧠 Key Idea
-
-Instead of using opaque embeddings, this project adopts a hypothesis-driven NLP approach:
-
-Layoff-related language → often associated with short-term negative sentiment
-
-AI / automation narratives → often associated with productivity and growth expectations
+* Layoff-related language → often associated with short-term negative sentiment
+* AI / automation narratives → often associated with productivity and growth expectations
 
 These signals are quantified using TF-IDF–based keyword scoring and fed into a transparent regression model.
 
-# 📁 Project Structure
+---
+
+## 📁 Project Structure
+
 ```
 2026_stock_price_prediction/
 │
@@ -38,12 +41,13 @@ These signals are quantified using TF-IDF–based keyword scoring and fed into a
 │
 ├── data/
 │   ├── raw_data/                      # Raw news / announcement text files (.txt)
-│   │   └── conference_call/           # Transcripts from major US financial institutions
+│   │   └── conference_call/           # Conference call transcripts
 │   ├── processed_data/
-│   │   ├── events.jsonl               # Structured events
-│   │   ├── events_conf.jsonl          # Structured conference call events
-│   │   ├── event_signals.jsonl        # Extracted NLP signals
+│   │   ├── events.jsonl
+│   │   ├── events_conf.jsonl
+│   │   ├── event_signals.jsonl
 │   │   └── event_returns_multi_company.csv
+│   └── pools/                         # User-submitted events (not auto-used)
 │
 ├── script/
 │   ├── txt_to_json.py                 # TXT → JSON conversion
@@ -51,117 +55,139 @@ These signals are quantified using TF-IDF–based keyword scoring and fed into a
 │   ├── tfidf_event_signals.py         # TF-IDF signal extraction
 │   ├── align_events_multi_company.py  # Event–price alignment
 │   ├── train_model.py                 # Model training
-│   ├── logistic_regression_event_model.py
-│   └── app.py                         # Streamlit web app
+│   ├── 01_data_intake_app.py           # Streamlit: user data submission
+│   ├── 02_inference_app.py             # Streamlit: prediction only
+│   └── 03_admin_retrain.py             # Streamlit: admin retraining
 │
 ├── README.md
 ├── requirements.txt
 └── .gitignore
 ```
 
-# ⚙️ Methodology
-1️⃣ Text Processing
+---
 
-Raw .txt announcements are parsed into structured JSON
+## ⚙️ Methodology
 
-Metadata (date, title, URL) + cleaned content
+### 1️⃣ Text Processing
 
-For conference calls, since explicit titles are often unavailable, titles are generated in the format: `{company_name}_conference_call`.
+* Raw `.txt` announcements parsed into structured JSON
+* Metadata (date, title, URL) + cleaned content
+* Conference calls assigned synthetic titles (e.g. `{company}_conference_call`)
 
-2️⃣ Signal Extraction
+### 2️⃣ Signal Extraction
 
-TF-IDF–based keyword scoring
+* TF-IDF–based keyword scoring
+* Two interpretable signals:
 
-Two interpretable signals:
+  * `layoff_signal`
+  * `ai_signal`
 
-layoff_signal
+### 3️⃣ Event Study
 
-ai_signal
+* Events aligned to the next trading day using Yahoo Finance data
+* Short-term returns computed (t+1, t+3, t+5)
 
-3️⃣ Event Study
+### 4️⃣ Modeling
 
-Events aligned to the next trading day using Yahoo Finance data
+* Logistic Regression
+* Inputs: layoff_signal, ai_signal
+* Output: Probability of stock price increase
 
-Short-term returns computed (t+1, t+3, t+5)
+---
 
-4️⃣ Modeling
+## 🌐 Web Applications (Streamlit)
 
-Logistic Regression
+This project deliberately separates **data submission**, **prediction**, and **model retraining**.
 
-Inputs: layoff_signal, ai_signal
+### 1️⃣ Data Intake App (User-facing)
 
-Output: Probability of stock price increase
+**File:** `script/01_data_intake_app.py`
 
-# 📈 Example Output
-{
-  "layoff_signal": 2.21,
-  "ai_signal": 0.32,
-  "up_probability": 0.38,
-  "down_probability": 0.62
-}
+* Users submit new announcements or excerpts
+* Signals are computed and stored in `data/pools/`
+* Data is **not** automatically used for training
 
+Run:
 
-Interpretation:
-High layoff intensity and limited AI-related language are associated with a lower probability of short-term price increase.
+```
+streamlit run script/01_data_intake_app.py
+```
 
-# 🌐 Web Demo
+---
 
-The project includes a Streamlit web application that allows users to:
+### 2️⃣ Inference App (Prediction only)
 
-Paste a news article or announcement
+**File:** `script/02_inference_app.py`
 
-Instantly obtain:
+* Loads pre-trained model from `/artifacts`
+* Runs real-time up/down probability prediction
+* Does **not** save user inputs
 
-Layoff & AI signal values
+Run:
 
-Up / Down probability
+```
+streamlit run script/02_inference_app.py
+```
 
-Model explanation notes
+---
 
-Run locally
-pip install -r requirements.txt
-streamlit run script/app.py
+### 3️⃣ Admin Retrain App (Human-in-the-loop)
 
-# 📦 Dependencies
+**File:** `script/03_admin_retrain.py`
 
-See requirements.txt. Core libraries include:
+* Reviews pooled user events
+* Allows manual inclusion/exclusion
+* Triggers retraining explicitly
 
-scikit-learn
+Design principle:
 
-pandas
+> **No automatic learning without human approval**
 
-numpy
+Run:
 
-yfinance
+```
+streamlit run script/03_admin_retrain.py
+```
 
-streamlit
+---
 
-# ⚠️ Limitations
+## 📦 Dependencies
 
-Small event sample size
+See `requirements.txt`. Core libraries include:
 
-Market-wide movements not fully controlled
+* scikit-learn
+* pandas
+* numpy
+* yfinance
+* streamlit
 
-Designed for interpretability & research, not trading execution
+---
 
-# 🚀 Future Improvements
+## ⚠️ Limitations
 
-Expand event dataset
+* Small event sample size
+* Market-wide movements not fully controlled
+* Designed for interpretability & research, not trading execution
 
-Add market-adjusted abnormal returns
+---
 
-Include sector or index controls
+## 🚀 Future Improvements
 
-Compare with embedding-based models (e.g. BERT)
+* Expand labeled event dataset
+* Add market-adjusted abnormal returns
+* Include sector / index controls
+* Compare against embedding-based models (e.g. BERT)
 
-# 👤 Author
+---
 
-Jeeyeon Noh  
-Jingyi Wang  
+## 👤 Authors
 
-Developed as an interpretable NLP + finance research project.
+Jeeyeon Noh
+Jingyi Wang
 
-# 📜 Disclaimer
+---
+
+## 📜 Disclaimer
 
 This project is for educational and research purposes only.
 It does not constitute financial or investment advice.
