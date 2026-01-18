@@ -2,8 +2,7 @@ Source: Deutsche Bank Investor Relations
 Date: 2025-01-30
 Title: Deutsche-Bank-Q4-FY-2024-Presentation
 URL: [Deutsche Bank Investor Relations – Q4/FY 2024 Results Presentation]
-
-[BEGIN TEXT]
+Name: Deutsche Bank
 
 Ongoing delivery of efficiency measures
 
@@ -25,5 +24,3 @@ Focus on delivering incremental savings towards the €2.5bn efficiency objectiv
 - Front-to-back re-design and automation of processes (€0.2bn)
 
 Targeted cost-income ratio reset to below 65% in 2025, delivering significant operating leverage, with franchise growth achieved with flat operating expenses.
-
-[END TEXT]

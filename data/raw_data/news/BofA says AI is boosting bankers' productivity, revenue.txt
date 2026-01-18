@@ -1,0 +1,27 @@
+Source: Reuters
+Title: BofA says AI is boosting bankers' productivity, revenue
+Date: 2025-11-17
+URL: https://finance.yahoo.com/news/bofa-says-ai-boosting-bankers-180801432.html?fr=sycsrp_catchall
+Name: Bank of America
+
+Bank of America (BAC) plans to spend billions of dollars on technologies such as artificial intelligence to boost bankers' productivity and bring in more revenue,​ its chief technology and information officer said on Monday.
+
+BofA plans to allocate $4 billion into new technology capabilities ‌from its $13 billion tech budget, the company told investors earlier this month. It plans to use AI more widely across all its businesses.
+"How many ‌clients can a given relationship banker cover if you're able to actually automate that process using AI," such as preparing client briefing documents before meetings, Hari Gopalkrishnan, who took over the role at BofA in July, said at the Reuters Momentum AI Finance conference in New York. "You now can have a banker cover 50 clients instead of 15. And ⁠that's exactly what we're seeing in ‌the real world."
+In wealth management, the second-biggest U.S. lender sends AI-generated market information to its financial advisers, combined with data on clients' portfolios, so that bankers ‍can better tailor their investment advice, he said.
+
+The bank's 18,000 developers have been using AI agents for the last year, and observed "significant gains" in productivity to automate or speed up mundane tasks, including streamlining some software tests by 90%.
+"Our ​teams are looking at growth, and we're in the process of strategic planning for the next three years, ‌and you see much more aggressive objectives," Gopalkrishnan said. "These tools are now taking flight."
+
+Earlier this year, larger rival JPMorgan Chase said AI tools enabled it to boost sales to wealthy clients and manage scores of requests during April's market rout. Goldman Sachs is rolling out a generative AI assistant to its bankers, traders and asset managers, while Morgan Stanley developed a chatbot for its financial advisers with OpenAI.
+
+BofA's virtual assistant, Erica, has done work for ⁠customers that would have otherwise required 11,000 employees, he said, ​including routine requests like ordering checks or disputing transactions.
+The chatbot was launched in ​2018 and has since logged three billion client interactions. Its more advanced applications include predictive data and tools for budgeting and investing.
+
+BofA has invested heavily in technology in recent years. It has more than ‍59 million digital users and its ⁠patent filings exceed 7,800.
+
+When asked about potential job losses from AI, Gopalkrishnan said BofA is focused on training its 213,000 employees to better use AI to reduce mundane tasks so they can focus on bringing in more ⁠business.
+
+"The reskilling, along with the leverage to be able to apply a much broader revenue opportunity, has served us very well," ‌Gopalkrishnan said.
+
+That view contrasts with Wells Fargo CEO Charlie Scharf's view that AI will drive headcount reductions.

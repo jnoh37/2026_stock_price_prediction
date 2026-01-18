@@ -1,0 +1,146 @@
+Date: 2025-10-30
+URL: https://ing.com/investors/financial-performance/quarterly-results/2025
+Name: ING
+Quarter: 2025, Q3
+
+Good morning and welcome to our results call for 3Q2025. I hope you're all well and thank you for joining us. As usual, I'm
+joined by our CRO, Ljiljana Čortan, and our CFO, Tanate Phutrakul.
+While macroeconomic and geopolitical uncertainty remains prevalent, we have again delivered a strong quarter as we
+continued to execute our strategy to accelerate growth, increase our impact and deliver customer value. In today's
+presentation, I will start by sharing further insights in how our capital allocation will continue to fuel growth and increase
+returns. I will also update you on our long-term capital target.
+Thereafter, Tanate will walk you through the quarterly fi nancials. As always, we will be happy to take your questions at the end
+of the call.
+Now, let's move to slide 2. This slide highlights our continued strong commercial momentum in 3Q2025, with solid growth
+across key areas. We have added nearly 200,000 mobile primary customers during the quarter, bringing growth in the last 12
+months to over 1.1 mln - well ahead of the target set at our Capital Markets Day.
+Our loan book expanded signifi cantly in both Retail and Wholesale Banking. Retail Banking saw €8.6 bln in net core lending
+growth, driven mainly by residential mortgages. Wholesale Banking also delivered a strong quarter, supported by Trade
+Finance Services and Lending, refl ecting increased client fi nancing needs.
+Core deposits declined slightly, following substantial infl ows in previous quarters. This was largely due to the conclusion of
+promotional campaigns and seasonal spending patterns during the summer in Retail Banking. On the other hand, Wholesale
+Banking posted strong infl ows, particularly in Payments and Cash Management, Financial Markets, and cash pooling.
+Customer balances grew at an annualised rate of 7% in 9M2025, keeping us well on track to achieve our 4% annual growth
+target.
+Fee income also continued its upward trend. Year-to-date fees grew by 12%, and we have raised our full-year 2025 growth
+outlook to more than 10%.
+Our four-quarter rolling average ROE stands at 12.6%, and we have also revised our full-year ROE outlook upwards. Finally, we
+remain committed to supporting clients in their sustainability transitions, with sustainable fi nance volumes up 29% compared
+to the same period last year.
+Now, let's move to the next slide to discuss what this growth means for our capital generation. On slide 3, we show how our
+continued commercial growth, further income diversifi cation, and proactive cost measures have delivered strong capital
+generation. Over the past four quarters, we have delivered €6 bln of net profi t, which contributed an additional 2%-point to our
+CET1 ratio, in line with the 2 prior years. This performance has enabled us to off er an attractive and sustainable dividend, with 
+an ordinary cash dividend yield of nearly 6% in the last 12 months. Part of the capital we generated was reinvested to support
+profi table growth across both our business lines.
+And fi nally, thanks to our strong capital generation, we have been able to announce and execute additional distributions,
+amounting to €4.5 bln over the last 12 months and €12.5 bln over the last 3 years.
+Moving to slide 4, where we summarise the total distributions to shareholders, building on what I just mentioned. In line with
+our policy, we have consistently paid cash dividends and have been executing share buybacks for several years. These actions
+have delivered a highly attractive yield - while our share price has risen signifi cantly.
+The €2 bln share buyback programme which started in May this year was concluded earlier this week and today we are
+announcing an additional €1.6 bln distribution. Of this, €1.1 bln will be returned in the form of a new share buyback, which will
+have a lasting positive impact on both earnings and dividends per share. In addition, we will pay a cash dividend of €500 mln in
+January 2026, helping us to meet the expected cash hurdle for next year. Looking ahead, we remain committed to delivering
+strong shareholder returns and will provide an update with our 1Q2026 results.
+Now, let's move to slide 5, where we explain the rationale behind updating our CET1 ratio target. Our expected fully-loaded
+CET1 MDA has risen over the years, from 10.5% in 2020 to around 11.2%, primarily due to regulatory changes. Consequently,
+we have revised our capital targets and will now manage our CET1 ratio at around 13%.
+This target gives us a buff er of about 180 bps above the MDA threshold, which we consider appropriate given the resilience of
+our business model and the fact that a signifi cant portion of the MDA - over 1% is attributable to countercyclical buff ers. Any
+CET1 capital above 13% will be treated as excess and factored into our future capital planning, as evidenced by the additional
+distribution that we announced today.
+In the previous slides, I outlined how we have deployed excess and newly generated capital over the past years, delivering
+strong shareholder returns. Although we are no longer in a position of excess capital, we remain fi rmly focused on generating
+strong capital going forward. Our allocation priorities are well defi ned:
+First, we will maintain an attractive shareholder return, supported by our 50% dividend pay-out policy. Second, we will
+continue to invest in value accretive growth - further diversifying income streams, expanding the loan book in a capitaleffi cient way, and considering M&A opportunities that meet our strict criteria. These investments will help to accelerate growth
+and enhance earnings potential, as the return on new business is higher than the return on a share buyback. Finally, we will
+return any capital structurally above our CET1 targets to shareholders.
+Moving to slide 8, where we present our improved outlook for 2025. So far this year, we have added nearly 700,000 mobile
+primary customers and remain on track to achieve our annual growth target of 1 mln in 2025. We have raised our expectation
+for fee growth and now anticipate fees to come in more than 10% higher than last year. As a result, we have also increased our
+outlook for total income, which we now expect to reach around €22.8 bln this year.
+Prudent expense management remains a key priority. We continue to take proactive measures to operate effi ciently while
+selectively investing for growth. Despite additional incidental expenses this quarter, we continue guiding total costs towards
+the lower end of the €12.5- €12.7 bln range.
+As explained earlier, our CET1 target has been updated to around 13%. Given our improved outlook for income and disciplined
+approach on costs, we have also raised our ROE expectations for this year to more than 12.5%. We will share our outlook for
+2026 and revisit our 2027 targets with the 4Q2025 results. Now, I'll hand over to Tanate, who will walk you through the 3Q2025
+fi nancial results in more detail, starting on slide 10. 
+Thank you, Steven. Let’s start with slide 10, which shows the development of total income, which increased further this quarter
+and was close to the record level we achieved one year ago.
+Commercial NII rose, driven by strong performance in Wholesale Banking Lending and the conclusion of a promotional savings
+campaign in Retail Banking Germany. These factors more than off set the impact of lower average ECB deposit facility rates and
+a stronger euro.
+Fee income continued its upward trend, growing by 15% year-on-year. Most of this growth is structural, which is why we have
+raised our full-year 2025 expectation. Finally, all other income, which includes other NII, investment income, and other income, 
+was supported by continued strong results in Financial Markets and Treasury, as well as the fi nal dividend payment from Bank
+of Beijing.
+Let's discuss slide 11, where we show the development of customer balances. We delivered another quarter of strong loan
+growth across both Retail and Wholesale Banking. Net core lending increased by €14.2 bln. Retail banking contributed €8.6 bln,
+driven by continued growth in mortgages and an increase of the consumer lending portfolio, primarily in Germany, Poland,
+and the Netherlands. Wholesale Banking Lending also posted strong growth, as a relatively large number of deals originated in
+earlier quarters were converted in 3Q2025.
+On the liability side, core deposits declined by around €200 mln after signifi cant infl ows in prior quarters. The decline was
+largely attributable to outfl ows in Germany and Belgium after the conclusion of promotional savings campaigns, with part
+of these funds moving into investment products. Seasonal eff ects also played a role, as customers spent more during the
+summer holiday period. Wholesale Banking posted a strong net infl ow, refl ecting increased deposit volumes in Payment and
+Cash Management (PCM), Financial Markets and in our cash pooling business.
+On slide 12, you can see that commercial NII grew quarter-on-quarter. The increase was particularly strong in Retail Germany's
+liability NII, after the end of bonus rates for fresh money from a promotional campaign. This was also the main driver behind
+the 1 bp improvement in the liability margin.
+Lending NII also rose, primarily due to robust volume growth in Wholesale Banking Lending. The lending margin remained
+stable, as the growth in Wholesale Banking Lending off set the impact of continued growth of our residential mortgage
+portfolio, which delivers higher return on equity but lower average margins.
+For full-year 2025, our outlook for liability margin and lending margin is unchanged at around 100 bps and around 125
+bps respectively. We expect commercial NII to come in between €15.2 and €15.3 bln. It’s worth noting that the higher than
+expected NII growth in 3Q2025 was partly driven by a large number of transactions in the Wholesale Bank, which had been in
+the pipeline for an extended period.
+Turning to slide 13. Fee growth remained strong, with a 15% increase year-on-year, driven by structural revenue drivers
+across both Retail and Wholesale Banking. In Retail Banking, growth was supported by the continued rise in mobile primary
+customers, which boosted daily banking fees. Investment Products also had a strong quarter, refl ecting an increase in the
+number of investment accounts and higher assets under management.
+Wholesale Banking delivered a quarterly record of €383 mln in fees, driven by strong performance in Lending, supported by a
+greater number of lead roles, increased loan underwriting activity and higher lending volume. Given the strong performance in
+9M2025, we are confi dent that we can grow our fee income by more than 10% in 2025.
+On slide 14, we show the development of all other income. Income in Financial Markets is mostly driven by client activity. We
+continued to support our clients through volatile market conditions, mostly with FX and interest rate management. Income
+from our fi nancial stakes included a fi nal dividend from our stake in Bank of Beijing, while other income also benefi ted from a
+gain on the sale of an associate company in Belgium.
+Next, slide 15. Our expenses, excluding regulatory costs and incidental items, rose less than 3% year-on-year, refl ecting
+our prudent approach. The increase was largely refl ecting wage infl ation and our ongoing investments in business growth
+and scalability. On the growth side, we continued investing in our customer acquisition and product development, including
+expanding our off ering for new customer segments. Another good example is Business Banking, where we broadened our
+product suite and made it easier to digitally on-board customers. In terms of scalability, we focused on enhancing and
+strengthening our Tech platform. At the same time, we're seeing benefi ts from operational effi ciencies, which helped off set
+part of the cost increase. We remain committed to digitising our services to further strengthen our operational leverage going
+forward.
+We are actively integrating GenAI capabilities through our organisation. Our GenAI chatbot is now live in 6 markets, providing
+improved customer support. And in consumer fi nance, we use AI to assess applicants and process loan applications
+automatically. Incidental expenses mostly related to restructuring provisions for planned FTE reductions in Retail Banking,
+which are expected to result in ~€30 mln in annualised cost savings once fully implemented.
+We still expect total expenses to fi nish at the lower end of the previously guided range. This outlook includes incidental items
+recorded in 9M2025, whereby continued focus on operational effi ciencies will lead to some incidental costs in 4Q2025.
+Now let's move to risk costs on the next slide. Total risk costs were €326 mln this quarter, equivalent to 19 bps of average
+customer lending, which is below our through-the-cycle average and a refl ection of the quality of our loan book. Net additions
+to Stage 3 provisions amounted to €361 mln, mainly due to collective provisioning in Retail Banking and a number of newly
+defaulted fi les in Wholesale Banking. The Stage 3 ratio remained stable. Stage 1 and Stage 2 risk costs showed a net release of
+€35 mln, mostly refl ecting portfolio movements. Overall, we remain confi dent in the strength and quality of our loan book.
+On slide 17, we show the development of our CET1 ratio, which increased compared to last quarter. CET1 capital increased
+on the back of strong capital generation, partly off set by dividend reserving and a lower market value of our stake in Bank of
+Beijing. Total risk-weighted assets remained broadly stable. Credit risk-weighted assets, excluding FX impacts, increased by
+€2.2 bln this quarter, mainly due to volume growth. This was partly off set by a change in the profi le of the loan book, equity
+revaluations and various other eff ects.
+Operational risk-weighted assets remained fl at, while market risk-weighted assets decreased by €1.7 bln. The announced
+additional distribution of €1.6 bln will have a pro forma impact of 48 bps on the CET1 ratio, bringing it more in line with our
+updated target.
+Now, I'll hand back to Steven to wrap up today's presentation.
+Thanks, Tanate. Before we move to Q&A, let me recap the key takeaways from today's presentation. We delivered another
+strong quarter, maintaining solid commercial momentum that is fully aligned with our growth strategy. This sustained
+performance translated into robust capital generation, enabling attractive shareholder returns while continuing to selectively
+invest in our business.
+Today, we announced a €1.6 bln distribution, bringing our CET1 ratio in line with our updated target. Going forward, we remain
+committed to deploying capital to fuel growth and further enhance returns. And fi nally, we have improved our outlook for
+2025 - expecting higher fees, stronger total income, and a return on equity above 12.5%.
+With that, I would like to open the fl oor for Q&A. Operator, over to you.

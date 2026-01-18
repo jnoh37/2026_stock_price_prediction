@@ -2,6 +2,8 @@ Source: Reuters
 Title: Exclusive: Barclays working on $1.25 bln cost plan, could cut up to 2,000 jobs -source
 Date: 2023-11-24
 URL: https://www.reuters.com/business/finance/barclays-working-125-bln-cost-plan-could-cut-up-2000-jobs-source-2023-11-23/
+Name: Barclays
+
 LONDON, Nov 24 (Reuters) - Barclays (BARC.L), opens new tab is working on plans to save up to 1 billion pounds ($1.25 billion), which could involve cutting as many as 2,000 jobs, mainly in the British bank's back office, a person with direct knowledge of the proposals told Reuters.
 Managers at Barclays, led by Chief Executive C.S. Venkatakrishnan who is known within the bank as Venkat, are reviewing proposals aimed at boosting profitability. As part of these, 1,500 to 2,000 jobs could be cut if the plans are implemented in full, the person said.
 A spokesperson for Barclays declined to comment on Thursday.

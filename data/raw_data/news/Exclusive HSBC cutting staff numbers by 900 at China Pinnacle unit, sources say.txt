@@ -2,6 +2,8 @@ Source: Reuters
 Title: Exclusive: HSBC cutting staff numbers by 900 at China Pinnacle unit, sources say
 Date: 2025-2-28
 URL: https://www.reuters.com/business/finance/hsbc-cutting-staff-numbers-by-900-china-pinnacle-unit-sources-say-2025-02-27/
+Name: HSBC
+
 HONG KONG, Feb 27 (Reuters) - HSBC (HSBA.L), opens new tab is reducing staff numbers at its China digital wealth business Pinnacle by nearly half, or about 900 people, two sources said, a sharp reversal of the bank's ambition for the unit as part of its expansion plans in that country.
 Pinnacle was launched in 2020 and sells insurance and fund products through a digital platform in China. It employed about 2,100 people at two of its main units as of the end of June last year, according to Reuters' calculations based on company disclosure and official business records.
 The reversal underscores the challenges the Asia-focused bank faces to boost growth and profitability in China at a time when it is slashing costs to boost returns.

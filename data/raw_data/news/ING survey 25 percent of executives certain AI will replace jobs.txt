@@ -2,6 +2,8 @@ Source: NL Times
 Title: ING survey: 25 percent of executives certain AI will replace jobs
 Date: 2025-12-21
 URL: https://nltimes.nl/2025/12/21/ing-survey-25-percent-executives-certain-ai-will-replace-jobs
+Name: ING
+
 More and more leaders of large Dutch companies anticipate that artificial intelligence (AI) will take over jobs. Currently, 25 percent are certain it will happen, up from 19 percent and 6 percent in the previous two years, according to a survey by ING of 261 top executives.
 
 The bank reports that, on average, executives expect 25 percent of existing roles to be altered. The IT department is expected to be most affected, followed by R&D and sales.

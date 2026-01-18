@@ -2,6 +2,8 @@ Source: BNP Paribas
 Title: BNP Paribas targets profit rebound at French retail arm by 2028
 Date: 2025-6-26
 URL: https://www.reuters.com/business/finance/bnp-paribas-targets-profit-rebound-french-retail-arm-by-2028-2025-06-26/
+Name: BNP Paribas
+
 BNP aims for 17% return on equity by 2028
 Revenue growth driven by net interest income recovery
 Includes workforce reduction without voluntary departure plan

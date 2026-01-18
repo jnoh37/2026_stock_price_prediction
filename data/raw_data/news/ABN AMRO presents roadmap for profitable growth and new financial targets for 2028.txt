@@ -2,6 +2,8 @@ Source: ABN official website
 Title: ABN AMRO presents roadmap for profitable growth and new financial targets for 2028
 Date: 2024-11-25
 URL: https://www.abnamro.com/en/news/abn-amro-presents-roadmap-for-profitable-growth-and-new-financial-targets
+Name: ABN AMRO
+
 Today, ABN AMRO presents the bank’s new strategy and financial outlook for 2026-2028 at its Capital Markets Day. The new plan is designed to deliver profitable growth and enhanced value for all stakeholders.
 
 There are three strategic priorities for the coming years: accelerating profitable growth, right-sizing the bank’s cost base, including a net reduction of the workforce by 5,200 FTEs by 2028 compared to 2024, and deploying capital where it generates the highest returns. This will enable ABN AMRO to operate more efficiently, capture new opportunities and deliver greater value for all stakeholders.

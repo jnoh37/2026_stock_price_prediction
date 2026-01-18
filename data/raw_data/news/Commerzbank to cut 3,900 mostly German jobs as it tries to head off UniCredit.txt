@@ -2,6 +2,8 @@ Source: Reuters
 Title: Commerzbank to cut 3,900 mostly German jobs as it tries to head off UniCredit
 Date: 2025-2-13
 URL: https://www.reuters.com/business/finance/commerzbank-cut-3900-jobs-mainly-germany-2025-02-13/
+Name: Commerzbank
+
 FRANKFURT, Feb 13 (Reuters) - Commerzbank (CBKG.DE), opens new tab plans to axe 3,900 mostly local jobs to help it deliver more ambitious profit targets as part of its strategy to fend off UniCredit's (CRDI.MI), opens new tab advances for a tie-up between the German and Italian lenders, it said on Thursday.
 The job cuts are expected to take place by 2028 but will be accompanied by hiring outside Germany, meaning full-time positions will remain steady at 36,700, the bank said.
 For months, Commerzbank's management, under the leadership of CEO Bettina Orlopp, has been working on a plan she has said would reveal the "significant value potential" of the bank.

@@ -2,6 +2,8 @@ Source: Reuters
 Title: Julius Baer stock has worst day in a decade as results disappoint
 Date: 2025-2-3
 URL: https://www.reuters.com/business/finance/julius-baer-announces-net-profit-112-bln-2024-2025-02-03/
+Name: Julius Baer
+
 ZURICH, Feb 3 (Reuters) - Swiss bank Julius Baer (BAER.S), opens new tab shares plunged on Monday after new Chief Executive Stefan Bollinger's plans to cut its workforce by about 5% and shrink its executive board failed to offset concern about the outlook.
 Baer's shares lost over 13%, putting the bank on track for its worst day in a decade after it reported a 2024 pretax profit that fell short of expectations.
 The wealth manager said it targeted savings of 110 million Swiss francs ($120.1 million) and would reduce the executive board to five members from 15 with immediate effect.

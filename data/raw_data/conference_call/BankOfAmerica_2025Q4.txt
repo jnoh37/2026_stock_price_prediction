@@ -1,0 +1,296 @@
+Date: 2026-01-14
+URL: https://d1io3yog0oux5.cloudfront.net/_b0b228fa136bab2442f674179c4af4bb/bankofamerica/db/775/10471/webcast_transcript/2026-01-15+BAC+4Q+Earnings+Call_ADA.pdf
+Name: Bank of America
+Quarter: 2025, Q4
+
+Good morning. Thank you for joining us to review our fourth quarter results. During the quarter, we elected
+to change the accounting method related to our tax-related equity investments in order to better align our
+financial statement presentation with the economic and financial impact of those investments.
+As a result, we filed an 8-K on January 6 and a related mini supplemental package recasting the numbers for
+the quarters of 2024 and 2025 and the full year of '23 and '24. The primary impact of the accounting
+change was a reclassification between the income statement line items in our income statement, which had
+an insignificant impact on net income. Our discussion today is based on those recast numbers.
+As usual, our earnings release documents are available on the Investor Relations section of the
+bankofamerica.com website. Those documents include the earnings presentation that we will make
+reference to during the call. Brian Moynihan will make some brief comments before turning the call over to
+Alastair Borthwick, our CFO, to discuss more of the details in the quarter.
+Let me remind you that we may make forward-looking statements and refer to non-GAAP financial
+measures during the call. Forward-looking statements are based on management's current expectations and
+assumptions that are subject to risks and uncertainties. Factors that may cause our actual results to
+materially differ from expectations are detailed in our earnings materials and SEC filings available on our
+website. Information about non-GAAP financial measures, including reconciliations to U.S. GAAP, can also be
+found in our earnings materials and are available on our website.
+With that, Brian, I'll pass it over to you. 
+Thank you, Lee, and good morning, and thank you for joining us. This morning, Bank of America reported net
+income of $7.6 billion for the fourth quarter. That is up 12% from the fourth quarter of 2024. Our EPS was
+$0.98 per share. That's an increase of 18% from the fourth quarter of '24. We delivered 7% year-over-year 
+revenue growth. This was led by a 10% improvement in net interest income, up to $15.9 billion on an FTE
+basis. For net interest income, we have delivered each quarter what we laid out across the year and finished
+a bit stronger than we expected. We grew average loans 8%. We grew average deposits 3%. We delivered
+330 basis points of operating leverage in quarter 4 through continuing disciplined expense management.
+Alastair Borthwick will take you through the details of the quarter. But first, I want to highlight a few things
+about 2025 to close the year out.
+I'm working off of Slide 2 in the earnings presentation. Our fourth quarter topped off a strong performance
+by my teammates at Bank of America for 2025. We delivered on our commitments to shareholders across
+the year with solid growth across revenue, earnings, and returns. We drove operating leverage and
+continued robust investments in people, brand, and technology in both our physical and digital networks.
+Those results reflect the power of our diversified business model and our commitment to drive responsible
+growth. Some highlights of 2025: you can see here, revenue was a little over $113 billion and was up 7%
+year-over-year. We generated 250 basis points of operating leverage for the year. Asset quality was strong,
+and net charge-offs improved from 2024. We grew net income year-over-year by 13%. In addition, we grew
+EPS year-over-year to $3.81 or by 19%.
+We also increased our profitability and returns during the year. Return on tangible common equity improved
+128 basis points. Our return on assets improved to 89 basis points. Our results and prudent balance sheet
+management allowed us to distribute 41% more capital back to shareholders, more than $30 billion.
+We grew loans 8%, and we grew deposits 3%. Loans outpaced the industry, and average deposits now have
+grown for the tenth consecutive quarter. Our focus on all the markets we serve, whether they're domestic or
+international, has allowed us to grow our client balances at a faster pace than the industry. Dean described
+how we do this in the U.S. at our Investor Day, and we will cover it later in the program.
+As you look to Slide 3, we've also highlighted some organic growth highlights for the year and the quarter.
+We grew net new consumer checking accounts by 680,000 during the year. And that's while maintaining a
+strong average balance of $9,000 plus. This extended our consecutive quarterly net growth to 28, or 7 years
+straight.
+We crossed over $6.5 trillion in client balances of investments, deposits, and loans across Wealth and
+Consumer Banking. Our consumer investment totals reached $600 billion. Similarly, our Workplace Benefits
+totals (i.e., 401(k) balances and related balances) crossed over $600 billion also. It's worth noting that $28
+billion of our year-over-year loan growth came through our wealth management clients. Global Wealth &
+Investment Management showed improved nominal profit growth, stronger pretax margin improvement and
+continued to draw net new assets when combined consumer of $100 billion during the year.
+In Global Banking, average deposits increased $71 billion, up 13%. We saw treasury service fees increased
+13% over '24, and ending loans grew across each line of business year-over-year, good core customer
+organic growth driving that. Investment banking saw good activity. For the full year, our investment banking
+fees were the highest they've been since going back to 2020, outside the pandemic period recovery. They
+were 7% higher than the prior year. Fees generated in the second half of 2025 were 25% greater than the
+first half. What does this show? It showed good momentum by our team. It also showed that our corporate
+commercial clients settled in during the year after tax policy being clear, tariffs became more understood,
+and they look forward and receive the benefits of deregulation.
+Global Markets under Jimmy's leadership saw continued growth in sales and trading with its 15th
+consecutive quarter of improvement and drove a record year of nearly $21 billion in sales and trading
+revenue. In addition to these stats, I commend you to review Slides 21, 23, and 25. Those highlight the
+continued progress of digital deployment and activation statistics for each of our businesses.
+You should note there the impact of Zelle and the continued usage growth and also note the impact of
+Erica, our AI agent, and its use both across our businesses and with our teammates.
+A couple of high-level comments on what we see in the economy. It was a pretty good decent environment
+as we move through year 2025. Consumer spending grew 5% -- at $4.5 trillion -- grew 5% over the 2024
+levels. Account balances in the consumer business, that broad base of the U.S. consumer, were stable
+through the year. Delinquencies and charge-offs improved in 2025 consumer credit. Unemployment in the
+market remains stable, and the equity market appreciation benefit those consumers or investors in our
+Merrill Edge products or in our 401(k) platforms. This strong consumer health bodes well for the continued
+improvement in growth in 2026.
+When you go to our corporate commercial customers, again, as the tax law settled in, the tariffs appear to
+be manageable, and deregulation kicked in. They had a pretty good year in good profits, including good
+credit quality and good money movement activity as we move through the year as they participate in the
+world economy. A world-class research team has the global growth rate for GDP at 3.4% in 2026 and U.S. at
+2.6%. Risks remain out there. They always do, but we're encouraged and constructive on the year ahead. So
+I'll turn it over to Alastair to cover the quarter.
+Thank you, Brian. I'll start using Slide 4. And as Brian noted, the fourth quarter was a strong quarter for us
+with 7% year-over-year revenue growth and good operating leverage producing $7.6 billion in net income or
+$0.98 in earnings per share. Our EPS grew 18% compared to the fourth quarter of '24.
+Net interest income of $15.9 billion on a fully taxable equivalent basis was strong and a little better than
+expected, and we saw good momentum from market-based fees that complemented the NII growth. Of the
+$28.4 billion in total revenue, $10.4 billion came from sales & trading, investment banking, and asset
+management fees. And those are 3 of the more highly compensable market-facing areas. It's these areas
+that grew revenue 10% year-over-year in the aggregate.
+On expense, the teams have shown good discipline across the businesses, as we held headcount flat across
+the year despite the volume growth of clients and activity. Most of the year-over-year expense growth was
+a result of revenue-related growth in markets and wealth-based activities I just described and our continued
+investments in the franchise. We saw productivity improvements through AI and digitalization more
+generally, and those enabled us to add client-facing associates as we eliminated work and roles in our
+operational support areas. This year, we brought another 2,000 college graduates into the company, and we
+remain an employer of choice, with progressive benefit programs for our employees. And even with those
+additions, we managed to hold our headcount flat for the year through good management.
+Provision and net charge-offs declined year-over-year. That's for a second straight quarter, driven by
+continued stabilization around credit card and lower losses in commercial real estate. The net charge-off
+ratio fell to 44 basis points and is down 10 basis points year-over-year.
+And lastly, we reduced our average diluted share count by about 300 million shares or 4% from the fourth
+quarter of '24.
+Slide 5 highlights the various earnings points that Brian and I have covered to this point. So, let's transfer to
+a discussion of the balance sheet using Slide 6 where you see total assets ended the quarter at $3.4 trillion,
+little changed from Q3 as securities and cash reductions were replaced with loan growth. Deposits grew
+$17 billion from Q3, and we use those deposits to continue to reduce wholesale funding as part of the plan
+we've discussed previously to intentionally lower balances and drive a more efficient balance sheet.
+Average global liquidity sources of $975 billion remain very strong. Shareholders' equity of $303 billion was
+up less than $1 billion as earnings and a modest increase in OCI was mostly offset by capital return to
+shareholders. In the quarter, we returned $8.4 billion of capital back to shareholders with $2.1 billion in
+common dividends paid and $6.3 billion of shares repurchased, $1 billion increase in share repurchase from
+Q3 reflects increased earnings over the past 6 months and some reduction in excess capital. Tangible book
+value per share of $28.73 rose 9% from the fourth quarter of '24.
+Turning to regulatory capital, our CET1 level decreased modestly to $201 billion, driven by a $2.1 billion
+capital reduction from making the tax equity investment accounting change period, and we were not
+required to restate prior period regulatory capital. That capital reduction reflects the timing of equity and
+profitability in those investment deals and comes back into our capital over the next several years as those
+deals wind down. That accounted for roughly 12 basis points of CET1 reduction in the quarter, again, that
+we'll get back over time.
+Risk-weighted assets rose $22 billion from Q3, driven by loan growth. Our CET1 ratio then declined from
+11.6% to 11.4%, and it remains well above our 10% regulatory required minimum. Our supplemental
+leverage ratio was 5.7% versus a minimum requirement of 5.0% as of December 31 and 3.75% under the
+new rule which we are adopting starting in 2026. This leaves ample capacity for balance sheet growth and
+our $467 billion of TLAC means our TLAC ratio remained comfortably above our requirements.
+On Slide 7, we show a trend of average deposits and the consecutive growth across those periods. Average
+deposits were up nearly 3% from the fourth quarter of '24, driven largely by commercial client activity.
+Global Banking grew average deposit $74 billion or 13% compared to fourth quarter '24. Our global
+capabilities, innovative solutions, and our relationship managers continue to offer clients value and access
+to our award-winning digital platform in CashPro. Consumer Banking reported its third consecutive quarter
+of year-over-year growth, and low- and no-interest checking was up $9 billion or 2%. Importantly, ending
+deposits improved sequentially in every segment.
+Team also showed continued discipline on pricing while achieving that growth. Overall rate paid on total
+deposits of 163 basis points declined 15 basis points from Q3, reflecting lower rates and disciplined actions
+in our Global Banking and Wealth Management businesses. Global Banking and Wealth Management rate
+paid both declined 28 basis points from Q3. The rate paid on the roughly $945 billion of consumer deposits
+fell 3 basis points to 55 basis points in Q4 and remains low, driven by the operating nature of that account
+base and that client base.
+Let's turn to loans by looking at average balances on Slide 8. Loans in Q4 of $1.17 trillion improved $90
+billion or 8% year-over-year, driven by 12% commercial loan growth. Consumer loans grew at a slower 4%
+year-over-year pace, and importantly, we're up across every loan category of card, mortgage, auto, and
+home equity. For the fifth quarter in a row, every business segment recorded higher average loans on a
+year-over-year basis. While commercial loan growth has been driven by our Global Markets group, we've also
+seen year-over-year growth of 3% in Global Banking and strong custom lending growth of $18 billion yearover-year in Wealth Management, as affluent clients borrowed for investments in assets like hospitality,
+sports, yachts, arts, and business. In addition, small business saw its 12th straight quarter of year-over-year
+lending growth.
+Let's turn our focus to NII on Slide 9, where on a GAAP non-FTE basis, NII in Q4 was $15.8 billion. And on a
+fully taxable equivalent basis, NII was $15.9 billion. And as I said earlier, that's up 10% from the fourth
+quarter of '24. On a fully taxable equivalent basis, NII grew $1.4 billion year-over-year, and $528 million over
+the third quarter.
+Our growth was driven by several factors: first, we saw good core NII performance from loan and deposit
+growth and disciplined pricing. Second, we benefited from asset repricing as higher- yielding loan growth
+replaced loan and security maturities and paydowns. Third, client activity in Global Markets drove more of
+the sales and trading growth through NII than fees this quarter compared to Q3. That was about $100
+million more of a shift in global markets activity to NII from MMSA than we had originally anticipated. And
+lastly, we had a small benefit from an average Fed fund rate, which primarily impacts our liabilities dropping
+more than the way average SOFR rates behaved on variable rate assets, so we had a slight benefit there.
+Our net interest yield, NIY, improved 7 basis points from the third quarter to 208 basis points, reflecting the
+growth in NII, while the earning balance remains stable as higher-yielding loan balances replaced loweryielding securities. And as I said earlier, higher deposits allowed us to reduce wholesale funding while cash
+balances declined. 
+Regarding interest rate sensitivity, on a dynamic deposit basis, we provide a 12-month change in NII for an
+instantaneous shift in the curve. That means interest rates would have to move instantaneously lower by
+another 100 basis points more than the 2 expected cuts contemplated in the curve. On that basis, a 100
+basis point decline would decrease NII growth over the next 12 months by $2 billion. And if rates went up
+100 basis points, NII growth would benefit additionally by approximately $700 million.
+With regard to a forward view of NII, let me give you a few thoughts. At Investor Day in November, we
+indicated our expectation that we would see 5% to 7% growth in net interest income in 2026 compared to
+2025, and that's still our belief today based on the latest interest rate curve, which includes 2 rate cuts in
+2026. To reiterate our expectation from Investor Day, we expect good core NII performance from loan and
+deposit growth that will additionally benefit from sizable fixed asset repricing and cash flow swap repricing
+to drive the 5% to 7% NII improvement. During 2026, we expect roughly $12 billion to $15 billion in
+combined mortgage-backed securities and mortgage loans to roll off quarterly, and those will be replaced
+with new assets at 150 to 200 basis points higher in yield or they'll allow us to pay down expensive shortterm debt.
+For Q1 NII expectations, I would use Q4 as a base after excluding about $100 million or so for the shift in
+Global Markets client activity that I referenced, that is likely to be offset in MMSA. So simply a change in
+geography that's revenue neutral. I'd also note we have 2 less days of interest in Q1 than Q4. And of course,
+we had a 25 basis point rate cut in December. Still we expect Q1 NII will grow roughly 7% from Q1 '25
+based on the assumptions on Slide 18, in line with our full year guidance.
+Okay. Let's turn to expense, and we'll use Slide 10 for our discussion. This quarter, we reported $17.4 billion
+in expense, up a little less than 4% year-over-year. When combined with our 7% revenue growth, this good
+expense management allowed us to generate more than 300 basis points of operating leverage, and that
+aligns to our target for the medium-term operating leverage range that we gave at Investor Day.
+The increase in expense was mainly driven by incentives tied to revenue growth and higher brokerage,
+clearing, and exchange costs, or BC&E, costs from trading activity. Those BC&E costs reflect client activity
+shifting toward higher growth and higher transaction cost overseas markets. Now these costs are the ones
+that are generally reimbursed by the client, so they're included in our revenue essentially offset one another.
+If we isolate change in expense for the incentives tied to Wealth Management – and remember, that
+reflects a 13% year-over-year improvement in asset management fees – and we isolate the BC&E costs
+that supported a 10% increase in sales and trading revenue, then combined, they represented roughly 2% of
+our expense growth for the year and they came with good revenue.
+Beyond that, productivity improvements from AI and digitalization continued to help offset higher wages,
+benefits, and technology investments. Headcount remains our key driver of expense, from compensation
+and benefits to real estate and technology. And we manage this closely, not only in total numbers, but also
+an organizational structure aiming to strike the right balance of managers and teammates. Since the end of
+2023, we've operated within a tight range of 213,000 employees. This year, we hired about 17,000 new
+teammates just to replace departures from what was a very low attrition rate. And every time someone
+leaves, we take the opportunity to evaluate whether the role needs to be replaced.
+Compared to the third quarter. Noninterest expense was up about $100 million, driven by technology
+investments and wealth management revenue-related costs. That was partially offset by a $200 million net
+benefit from the combined impact of the reduction of the FDIC special assessment accrual and some other
+settlements that modestly increased litigation expense.
+Looking ahead, our focus remains on delivering operating leverage for shareholders. We expect to generate
+about 200 basis points of operating leverage in 2026. Those expectations include a constructive fee
+environment that complements our expected NII growth. We've seen encouraging momentum in asset
+management fees, investment banking, and sales & trading, and we look for that to continue. And
+importantly, if revenue comes in below our expectations, then obviously, revenue-related expense will be
+lower. As for Q1, we typically see seasonal strength in sales and trading activity and elevated payroll tax 
+expense. Combined with the absence of the FDIC benefit we saw in the fourth quarter and combined with
+ongoing productivity improvements, we expect Q1 expenses to be about 4% higher than Q1 of 2025. And
+even with that, we still expect to deliver operating leverage.
+Let's now move to credit and turn to Slide 11. And where you can see asset quality remains sound with
+small improvements in several key indicators. It's not a great deal to cover here. Our net charge-offs were
+$1.3 billion, down about $80 million from the third quarter and driven by lower losses in commercial real
+estate. Total net charge-off ratio this quarter was 44 basis points, down 3 basis points from the third
+quarter and down 10 basis points from Q4 '24. Provision expense in the quarter was $1.3 billion and mostly
+matched net charge-offs. Focusing on total net charge-offs looking forward in the near term, we expect
+continued stability in total net charge-offs, given the mostly benign consumer delinquency trends and low
+unemployment data, the continued stability of C&I and reductions in our commercial real estate exposures.
+On Slide 12, in addition to the consumer delinquency statistics, note the modest changes in other stats for
+both our consumer and commercial portfolios.
+Let's now turn to the performance across our lines of business, beginning with Consumer Banking on Slide
+13. Our Consumer Bank had a strong year. And for the full year, the team generated $44 billion in revenue
+and delivered $12 billion in net income. Net income grew 14% from 2024, and we earned a 28% return on
+allocated capital. In Q4, Consumer Banking delivered strong results, generating $11.2 billion in revenue, up
+5% versus the fourth quarter of last year and $3.3 billion in net income up 17%. So, a really strong finish to
+the year.
+These results reflect the value of our deposit franchise and underscore both the breadth of our platform and
+the success of our organic growth strategy and digital banking capabilities. Our focus on client experience
+and investments in both physical and digital capabilities, combined with more investment in product
+innovation and rewards drove the strong results. Business was also managed well for shareholders, as we
+grew expense less than 2%, allowing us to improve our efficiency ratio to 51% and deliver nearly 350 basis
+points of operating leverage. This 2% expense growth reflects our continued investments in our brand,
+highlighted by our minimum wage increase to $25 earlier this year and incentives for more production.
+Digitalization and early utilization of AI helped offset some of the investments. Consumer investment
+balances grew $81 billion from Q4 '24 to nearly $600 million, supported by $19 billion in full year client
+flows and market appreciation. Average balance per investment account at $147,000 is up 12% from last
+year. And this investment platform serves as a great catch basin for first-time investors and for more
+experienced investors looking to manage some element of their own money.
+As mentioned, consumer net charge-offs improved again on a year-over-year basis, and we continue to see
+stability in asset quality metrics. Credit card net charge ratio of 3.4% improved nearly 40 basis points from
+Q4 and improved linked quarter.
+Finally, as shown in the appendix, this is Slide 21. You can see strong digital adoption and the engagement
+that all continued, and the customer experience scores remain strong, reflecting the impact of our ongoing
+investments in digital.
+Turning to Wealth Management on Slide 14. And you can see this is a business that has strong momentum
+right now, and we've improved growth as we work towards the medium-term targets laid out at Investor
+Day. For the full year, revenue of $25 billion grew 9% compared to 2024, and net income grew 10% to
+nearly $4.7 billion. Over the past 3 quarters, net income has gone from $1.0 billion in Q2 to nearly $1.3
+billion in Q3 and to $1.4 billion in Q4. Return on allocated capital went from 20% in Q2, up to 28% in Q4.
+And the pretax margin has climbed back into the high 20% range as we ended the year. Underneath all that,
+client balances grew $500 billion across the year to $4.8 trillion and that included strong ending loan growth
+of nearly $30 billion or 13%.
+Within that, AUM flows were $82 billion and total flows of 80 -- sorry, $96 billion. And coupled with the
+flows of consumer investments, we saw $115 billion of well flows for the firm this year. And for the year, 
+Merrill and the Private Bank added 21,000 net new relationships with the average size of new relationships
+continuing to grow across both businesses. Importantly, we're not just growing relationships, we're
+deepening them as we added 114,000 new bank accounts this year. And finally, I'd highlight the continued
+digital momentum as shown on Slide 23, where new accounts have increasingly opened digitally,
+underscoring the effectiveness of our digital investments and the evolving preferences of our clients.
+On Slide 15, you see the results for Global Banking. The team had a good year and generated $7.8 billion in
+earnings and that represented about 25% of the company's overall net income. Year-over-year earnings
+were down a modest 2% as a result of interest rate cuts impacting NII from the variable rate assets in the
+business. The team grew average deposits $71 billion or 13% and grew loans $12 billion. This included the
+addition of roughly 500 new clients in middle market banking, and more than 1,000 in business banking that
+chose Bank of America as their financial services provider in 2025.
+For the fourth quarter, Global Banking delivered net income of $2.1 billion down 3% year-over-year with a
+6% improvement in fees overcoming the NII pressure. Business remains very efficient with a 50% efficiency
+ratio, and we earned 16% return on allocated capital in Q4. We generated $1.67 billion in investment
+banking fees, up modestly over Q4 '24. And we maintained our #3 position for the full year. And as Brian and
+I said earlier, investment banking fees showed good momentum, given all the regulatory and tariff
+announcements around the globe, uncertainty settling in, and our pipeline remains strong. Noninterest
+expense grew 6% compared to last year as we position the firm for the future with continued investments
+in technology and bankers.
+Switching to Global Markets on Slide 16. I'll focus my comments on results that exclude DVA as we typically
+do. The Global Markets team produced a record year of record -- sorry, a record year of revenue, improved
+earnings and solid returns. We generated $24 billion in revenue for the year, and that exceeded last year's
+revenue by 10%. Earnings of $6.1 billion for the year were up 8%, and the business generated a 13% return
+on allocated capital. It's worth noting this is the 12th consecutive quarter of year-over-year net income
+growth.
+Q4 Global Markets generated net income just shy of $1 billion, up 5% from Q4 '24. Revenue, excluding DVA,
+grew 10% year-over-year driven by strong sales and trading performance. And focusing on sales & trading,
+revenue ex-DVA, rose 10% year-over-year to $4.5 billion. And it was equities trading that led the
+improvement, growing 23%, supported by increased activity in Asia. And that brought higher revenue, it also
+brought higher revenue -- sorry, higher cost in the form of transaction costs as the clients still reimburse us
+for those fees. FICC revenue grew 1%, driven by improved performance in macro rates and FX products
+offsetting a modest decline in credit products. Loan growth continues to benefit from opportunities tied to
+highly collateralized pools of high-quality assets and clients value our expertise and in delivering these
+solutions.
+On Slide 17, All Other shows a loss of $132 million in Q4, with very little to cover here. And as we wrap up, I
+would just note Q4 effective tax rate was 21%, and it was 19% for the full year. For 2026, we expect an
+effective tax rate of roughly 20%.
+And then finally, I'd just note on Slide 18, we provided a summary of the forward-looking guidance that we
+discussed today. So, I'll stop there. Thank you. And with that, we'll jump into Q&A.

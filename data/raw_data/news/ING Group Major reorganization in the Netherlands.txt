@@ -2,6 +2,8 @@ Source: Unie
 Title: ING Group: Major reorganization in the Netherlands?
 Date: 2025-10-20
 URL: https://unie.nl/en/jouw-cao-en-branche/ing-group-major-reorganization-netherlands
+Name: ING
+
 In October, the following topics were discussed in various meetings:
 
 Announcement of collective dismissal

@@ -1,0 +1,69 @@
+Date: 2025-10-14
+URL: https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2025/4th-quarter/jpm-4q25-earnings-call-transcript.pdf
+Name: JP Morgan Chase
+Quarter: 2025, Q4
+
+Thank you, and good morning, everyone. This quarter, the Firm reported net income of $13 billion and EPS of $4.63, with an ROTCE of 18%.
+These results included the previously announced reserve build of $2.2 billion in CCB related to the forward purchase commitment of the Apple
+Card portfolio. Revenue of $46.8 billion was up 7% year-on-year on higher Markets revenue, as well as higher asset management fees and auto
+lease income. The increase in NII ex. Markets was primarily driven by higher Firmwide deposit balances and revolving balances in Card, largely
+offset by the impact of lower rates. Expenses of $24 billion were up 5% year-on-year, predominantly driven by higher volume and revenuerelated expenses and compensation growth including front office hiring, partially offset by the release of an FDIC special assessment accrual.
+Turning to the full year results, I'll remind you that there were a few significant items in 2025, which are listed in the footnote. Excluding those
+items, the Firm reported full year net income of $57.5 billion, EPS of $20.18, revenue of $185 billion, with an ROTCE of 20%. And in terms of the
+balance sheet, we ended the quarter with a standardized CET1 ratio of 14.5%, down 30 basis points versus the prior quarter, as net income was
+more than offset by capital distributions and higher RWA. This quarter's higher standardized RWA is driven by increases in lending across both
+Wholesale and retail, including the Apple Card purchase commitment, which contributed about $23 billion of standardized RWA, partially
+offset by lower market risk RWA. You'll see that, sequentially, the advanced RWA is up more significantly than standardized.
+And as you know, our SCB is now at the 2.5% floor, which makes advanced RWA more relevant, so we have added it to the page. The Apple
+Card transaction's advanced RWA contribution was about $110 billion based on the sum of expected drawn balances and undrawn lines on
+closing. The elevated level of advanced RWA is temporary and is expected to reduce to approximately $30 billion in the near-term. Moving to
+our businesses, CCB reported net income of $3.6 billion or $5.3 billion excluding the reserve build for the Apple Card portfolio. Revenue of
+$19.4 billion was up 6% year-on-year, predominantly driven by higher NII on higher revolving balances in Card and a higher deposit margin in
+Banking & Wealth Management.
+A few points to highlight. Consumers and small businesses remain resilient. We continue to monitor leading indicators for any signs of stress,
+and despite weak consumer sentiment, trends in our data are largely consistent with historical norms and we are not currently seeing
+deterioration. Across income groups, debit and credit sales volume continued to perform well, up 7% year-on-year. For the full year, we had
+strong growth in our franchise with 1.7 million net new checking accounts, 10.4 million new card accounts, and record households in wealth
+management across digital and advised channels. Next, the CIB reported net income of $7.3 billion. Revenue of $19.4 billion was up 10% yearon-year, driven by higher revenues in Markets, Payments and Securities Services. To give a bit more color, IB fees were down 5% year-on-year,
+reflecting a strong prior year compare and the timing of some deals that were pushed to 2026.
+In terms of the outlook, we expect strong client engagement and deal activity in 2026, supported by constructive market dynamics, which is
+reflected in our pipeline. In Markets, Fixed Income was up 7% year-on-year, with strong performance in Securitized Products, Rates and
+Currencies & Emerging Markets, largely offset by lower revenue in Credit trading. Equities was up 40%, with robust performance across the
+franchise, particularly in Prime. Turning to Asset & Wealth Management, AWM reported net income of $1.8 billion with pre-tax margin of 38%.
+Revenue of $6.5 billion was up 13% year-on-year, predominantly driven by growth in management fees on higher average market levels and
+strong net inflows, as well as higher performance fees. Long-term net inflows were $52 billion for the quarter and $209 billion for the full year,
+positive across all channels, regions and asset classes.
+In liquidity, we saw net inflows of $105 billion for the quarter and $183 billion for the year. And we saw record client asset net inflows of $553
+billion for the year. To finish up the fourth quarter results, Corporate reported net income of $307 million and revenue of $1.5 billion. Before I
+cover the outlook, I want to make a few points on non-bank financial institution lending, given the attention it received last quarter. When we
+look at NBFI lending internally, we use a narrower definition than what the Call Report uses. Our definition focuses on exposure to non-bank
+financial institutions that is collateralized by the loans the NBFIs are making to end borrowers. 
+
+At the top of the page, we provided a reconciliation of the regulatory definition to our definition. And as you can see, that results in excluding,
+for example, subscription lending to private equity funds, resulting in about $160 billion of exposure as of the fourth quarter.
+We've also given you categories of the exposure that we believe are a bit more intuitive and mapped to recognizable industry categories and
+business models of the NBFIs. Now, looking at the bottom left, you can see that even though our narrower definition produces a smaller
+absolute number, the growth over the last seven years has been quite significant no matter how you look at it. And the drivers of that growth
+are well-understood in terms of market dynamics and regulatory pressures. In terms of risk, on the bottom right of the page, we've given you
+some detail on the structural features associated with different versions of this lending and the different asset classes. Given the significant
+amount of credit enhancement involved in this activity, as well as the absence of a traditional credit cycle during the period, it's not surprising
+that when we look at the loss history since 2018, we've only seen one charge-off, the one related to apparent fraud.
+Stepping back, in light of the growth and the novel elements of some components of this activity, we are quite mindful of the risk. But given the
+structural protections, you would generally expect losses in this NBFI category to appear either as a result of additional instances of fraud-like
+problems or as a result of a particularly deep recession that erodes all the credit enhancement. In that scenario, losses associated with
+traditional lending to end borrowers would likely be the greater concern for the industry. Now, turning to the outlook for 2026, we continue to
+expect NII ex. Markets to be about $95 billion. The drivers we explained last quarter remain largely the same, so I'll cover them quickly. As
+usual, the outlook follows the forward curve, which currently assumes two rate cuts. Offsetting that is the expectation for continued loan
+growth in Card, although slightly less than last year, as the revolve normalization tailwind is behind us, as well as modest Firmwide deposit
+growth.
+For completeness, we expect total NII to be about $103 billion for the year as a function of Markets NII increasing to about $8 billion due to
+lower funding costs from the rate cuts, which you should think of as being primarily offset in NIR. On expense, as we told you at an industry
+conference in December, we expect 2026 adjusted expense to be about $105 billion. Broadly, the expense growth continues to align with
+where we see the greatest opportunities across our businesses. The details of the thematic drivers are listed on the page and are broadly
+consistent with what we've told you before. On the slide, we've shown you 2024 and 2025 as well as 2026 and called out the Foundation
+contribution and the FDIC special assessment. When adjusting for those, the 2026 growth looks a bit more in line.
+So, 2026 in isolation clearly represents meaningful expense growth in both dollar and percentage terms, and that growth reflects our structural
+optimism about the opportunity set for the company when we look through the cycle, as well as some optimism about the near-term revenue
+outlook. More generally, the environment is only getting more competitive, and so it remains critical to ensure that we are making the
+necessary investments to secure our position against both traditional and nontraditional competitors. To wrap up, on credit, we expect the
+2026 Card net charge-off rate to be approximately 3.4% on favorable delinquency trends, driven by the continued resilience of the consumer. 

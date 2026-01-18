@@ -2,6 +2,8 @@ Source: HSBC
 Title: HSBC announces completion of next stage of global reorganisation
 Date: 2024-12-5
 URL: https://www.hsbc.com/news-and-views/news/media-releases/2024/hsbc-announces-completion-of-next-stage-of-global-reorganisation
+Name: HSBC
+
 HSBC announces the completion of the next stage of its plans to simplify the Bank’s organisational structure to accelerate the delivery of its strategy.
 
 The changes will see HSBC create a simpler, more dynamic, agile organisation by operating through four key businesses.

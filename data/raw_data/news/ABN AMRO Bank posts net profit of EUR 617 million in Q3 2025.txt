@@ -2,6 +2,8 @@ Source: ABN official website
 Title: ABN AMRO posts net profit of EUR 617 million in Q3 2025
 Date: 2024-11-12
 URL: https://www.abnamro.com/en/news/abn-amro-posts-net-profit-of-eur-617-million-in-q3-2025
+Name: ABN AMRO
+
 ABN AMRO Bank posts net profit of EUR 617 million in Q3 2025
 
 Solid financial performance: Net profit of EUR 617 million and return on equity of 9.5%
