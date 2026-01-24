@@ -5,11 +5,9 @@ import numpy as np
 from datetime import timedelta
 import os
 
-
 # =========================
 # 1. Company → Ticker mapping
 # =========================
-
 COMPANY_TICKER_MAP = {
     "ABN AMRO": "ABN.AS",
     "Barclays": "BARC.L",
@@ -24,10 +22,10 @@ COMPANY_TICKER_MAP = {
     "JPMorganChase": "JPM",
     "Visa": "V",
 }
+
 # =========================
 # 2. Helper Functions
 # =========================
-
 def get_price_data(ticker, start_date, end_date):
     """Fetch historical price data from yfinance."""
     df = yf.download(ticker, start=start_date, end=end_date, progress=False)
@@ -57,99 +55,88 @@ def compute_returns(event_day, price_df, horizons=[1, 3, 5]):
 # =========================
 # 3. Execution Pipeline
 # =========================
-
 if __name__ == "__main__":
+    # Load TF-IDF signal results for merging
+    SIGNAL_FILE = "data/processed_data/event_signals.jsonl"
+    signals_list = []
+    if os.path.exists(SIGNAL_FILE):
+        with open(SIGNAL_FILE, "r", encoding="utf-8") as f:
+            for line in f:
+                signals_list.append(json.loads(line))
+    df_signals = pd.DataFrame(signals_list)
+
     # Load BERTopic sentence-level results
     TOPIC_FILE = "data/processed_data/topic-analysis_results.csv"
     df_sentences = pd.read_csv(TOPIC_FILE)
-    
-    # Filter for high-confidence topics only (Probability > 0.8)
     df_sentences = df_sentences[df_sentences['probability'] > 0.8].copy()
     
     # Aggregate sentences into Document-level Topic Features
-    # This creates a matrix where rows are news articles and columns are topic counts
     topic_features = pd.crosstab(
         [df_sentences['company_name'], df_sentences['date'], df_sentences['title']], 
         df_sentences['topic']
     ).reset_index()
 
-    # Rename numeric topic columns to strings (e.g., 'topic_0', 'topic_1')
     topic_features.columns = [f"topic_{c}" if isinstance(c, (int, np.integer)) else c for c in topic_features.columns]
 
     results = []
-
     print("Starting stock data alignment...")
     for idx, row in topic_features.iterrows():
         company = row['company_name']
         ticker = COMPANY_TICKER_MAP.get(company)
-        
-        if not ticker:
-            continue
+        if not ticker: continue
         
         event_date = pd.to_datetime(row['date'])
-        
-        # Buffer window to ensure we capture trading days
         start = event_date - timedelta(days=5)
         end = event_date + timedelta(days=15)
         
         price_df = get_price_data(ticker, start, end)
-        if price_df.empty:
-            continue
+        if price_df.empty: continue
             
         aligned_day = align_to_trading_day(event_date, price_df)
-        if aligned_day is None:
-            continue
+        if aligned_day is None: continue
             
-        # Calculate returns (T+1, T+3, T+5)
         ret = compute_returns(aligned_day, price_df)
         
-        # Combine metadata, returns, and topic features
+        # --- KEY ADDITION: Match TF-IDF scores by title ---
+        match = df_signals[df_signals['title'] == row['title']]
+        l_sig = float(match.iloc[0]['layoff_signal']) if not match.empty else 0.0
+        a_sig = float(match.iloc[0]['ai_signal']) if not match.empty else 0.0
+
+        # Combine metadata, returns, signals, and topic features
         entry = {
             "date": row['date'],
             "company": company,
             "title": row['title'],
             "ticker": ticker,
+            "layoff_signal": l_sig, # Added signal
+            "ai_signal": a_sig,     # Added signal
             **ret
         }
         
-        # Add the fixed topic features
         for col in topic_features.columns:
             if col.startswith("topic_"):
                 entry[col] = row[col]
-                
         results.append(entry)
 
-    # Save the combined dataset for modeling
     final_df = pd.DataFrame(results)
     output_path = "data/processed_data/topic_returns_combined.csv"
     final_df.to_csv(output_path, index=False)
     print(f"Combined data saved to {output_path}. Total events: {len(final_df)}")
 
-# =========================
-    # 4. Generate Topic Dictionary (New Section)
+    # =========================
+    # 4. Generate Topic Dictionary (Remaining as original)
     # =========================
     from bertopic import BERTopic
-
-    # Load your trained BERTopic model
-    # Ensure the path matches where you saved your model earlier
     topic_model = BERTopic.load("artifacts/bertopic_model")
-
-    # Get topic information (includes Topic ID and representation words)
     topic_info = topic_model.get_topic_info()
-
     topic_mapping = {}
     for idx, row in topic_info.iterrows():
         topic_id = row['Topic']
-        if topic_id == -1: 
-            continue # Skip outliers
-        
-        # Get top 3 keywords for this topic and join them with an underscore
+        if topic_id == -1: continue
         keywords = "_".join([word for word, prob in topic_model.get_topic(topic_id)[:3]])
         topic_mapping[int(topic_id)] = keywords
 
-    # Save the mapping to a JSON file for the Logistic script
     dict_path = "data/processed_data/topic_dictionary.json"
     with open(dict_path, "w", encoding="utf-8") as f:
         json.dump(topic_mapping, f, ensure_ascii=False, indent=4)
-
     print(f"Topic dictionary saved to {dict_path}")

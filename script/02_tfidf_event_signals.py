@@ -131,8 +131,7 @@ def save_results(meta, layoff_score, ai_score, output_path):
 
 if __name__ == "__main__":
     INPUT_FILES = [
-        "data/processed_data/events.jsonl",
-        "data/processed_data/events_conf.jsonl"
+        "data/processed_data/events_all.jsonl",
     ]
     OUTPUT_JSONL = "data/processed_data/event_signals.jsonl"
 

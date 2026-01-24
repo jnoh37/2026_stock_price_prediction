@@ -5,7 +5,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
 
-DATA_PATH = "data/processed_data/event_returns_multi_company.csv"
+DATA_PATH = "data/processed_data/topic_returns_combined.csv"
 OUT_DIR = "artifacts"
 MODEL_PATH = os.path.join(OUT_DIR, "logit_signal_model.joblib")
 

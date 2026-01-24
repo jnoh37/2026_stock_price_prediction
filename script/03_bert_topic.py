@@ -8,9 +8,8 @@ from bertopic import BERTopic
 # 1. Path Configuration
 input_path = 'data/processed_data/events_all.jsonl'
 output_dir = 'data/processed_data'
-model_dir = 'artifacts/bertopic_model' # Saved as a directory or file
+model_dir = 'artifacts/bertopic_model'
 
-# Ensure directories exist
 os.makedirs(output_dir, exist_ok=True)
 os.makedirs('artifacts', exist_ok=True)
 
@@ -44,7 +43,6 @@ topic_model = BERTopic(calculate_probabilities=True, verbose=True)
 topics, probs = topic_model.fit_transform(sentence_data)
 
 # 5. Save the model using BERTopic's native save method
-# 'safetensors' is the recommended format for efficiency and security
 topic_model.save(
     model_dir, 
     serialization="safetensors", 
