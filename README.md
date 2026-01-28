@@ -1,20 +1,53 @@
 # 📈 2026_stock_price_prediction
 
-An extensible, interpretable NLP framework for modeling how corporate announcements impact short-term stock price movements. This repository includes a reference end-to-end implementation using layoff and AI-related signals.
+An end-to-end, interpretable NLP system for modeling how corporate announcements impact short-term stock price movements.
 
-This project focuses on how specific announcement themes (e.g. layoffs, AI adoption) are associated with short-term stock price reactions, rather than black-box text embeddings.
+This project focuses on **hypothesis-driven text signals** (e.g. layoffs, AI adoption) rather than black-box embeddings, and provides a fully reproducible pipeline from raw text to prediction, including web-based inference and retraining.
+
+---
+
+## 🚀 What This Project Does (TL;DR)
+
+**Input**  
+Corporate announcements (news articles, conference call transcripts)
+
+**Process**  
+→ Text signal extraction (TF-IDF + BERTopic)  
+→ Event–stock alignment  
+→ Interpretable logistic regression modeling  
+
+**Output**  
+→ Probability of next-day stock price increase  
+→ Transparent feature-level explanations  
+→ Web apps for inference, data intake, and admin retraining  
+
+---
+
+## 🧪 Execution Environment (Databricks)
+
+This project has been **fully reproduced and validated in a Databricks Workspace** environment.
+
+- All core data processing and modeling steps are runnable as **Databricks notebooks**
+- Folder structure mirrors the local pipeline (`raw_data → processed_data → artifacts`)
+- The workflow supports collaborative experimentation and scalable execution
+- Results are consistent between **local execution** and **Databricks Workspace** runs
+
+This makes the project suitable for both **local research workflows** and **cloud-based analytics / enterprise data platforms**.
 
 ---
 
 ## 🔍 Project Overview
 
-Corporate announcements often contain signals that influence short-term market reactions.
-This project builds an end-to-end, interpretable NLP pipeline that:
+Corporate announcements often contain signals that influence short-term market reactions.  
+This project builds an **end-to-end, interpretable NLP pipeline** that:
 
-* Extracts thematic text signals (Layoff intensity & AI adoption)
-* Aligns announcements with actual stock price movements
-* Trains a logistic regression model to estimate the probability of price increase
-* Provides web interfaces for **data intake**, **prediction**, and **admin-controlled retraining**
+- Extracts thematic text signals (e.g. Layoff intensity & AI adoption)  
+- Aligns announcement events with observed stock price movements  
+- Trains a logistic regression model to estimate price movement probability  
+- Provides web interfaces for:
+  - Real-time prediction
+  - Data intake
+  - Admin-controlled retraining
 
 Conference call transcripts from major US / EU financial institutions are used to expand the event dataset.
 
@@ -22,63 +55,91 @@ Conference call transcripts from major US / EU financial institutions are used t
 
 ## 🧠 Key Idea: Hypothesis-Driven NLP
 
-Instead of asking a model "Is this news good or bad?", we test specific economic hypotheses:
+Instead of asking *“Is this news positive or negative?”*, this project tests **explicit economic hypotheses**:
 
-1.  **Efficiency vs. Morale**: Does layoff-related language signal cost-cutting efficiency (positive) or internal instability (negative)?
-2.  **Growth Narratives**: Are AI and automation narratives consistently associated with productivity-led growth expectations?
+1. **Efficiency vs. Morale**  
+   Does layoff-related language indicate cost efficiency (positive) or organizational instability (negative)?
 
-By quantifying these themes via TF-IDF and BERTopic, we convert raw text into actionable "Feature Signals" that explain **why** a prediction was made.
+2. **Growth Narratives**  
+   Are AI and automation narratives systematically associated with productivity-led growth expectations?
+
+By quantifying these themes via **TF-IDF** and **BERTopic**, raw text is converted into **interpretable feature signals** that explain *why* a prediction is made.
 
 ---
 
-## 🧠 Methodology: Hybrid Signals
+## 🧠 Methodology: Hybrid, Interpretable Signals
 
-This project moves beyond opaque "black-box" embeddings by using a hypothesis-driven approach. We combine two transparent signal extraction methods to feed a transparent regression model.
+This project deliberately avoids opaque embeddings in favor of transparent signals:
 
-* **Keyword Signals (TF-IDF)**: Quantifies the frequency of specific, pre-defined themes like *Layoffs* and *AI Adoption*.
-* **Topic Signals (BERTopic)**: Captures latent semantic contexts through unsupervised clustering of text fragments.
-* **Prediction**: A **Logistic Regression** model estimates the probability of a stock price increase on the next trading day ($t+1$).
+- **Keyword Signals (TF-IDF)**  
+  Measures the intensity of predefined themes such as *Layoffs* and *AI Adoption*.
+
+- **Topic Signals (BERTopic)**  
+  Captures latent semantic contexts through unsupervised topic modeling.
+
+- **Prediction Model**  
+  A **Logistic Regression** model estimates the probability of a stock price increase on day *t+1*.
+
+---
+
+## ⚙️ Pipeline Overview
+
+The core modeling pipeline is automated via `Makefile` and consists of six steps:
+
+| Step | Description |
+|-----:|-------------|
+| 01 | Convert raw TXT announcements to structured JSON |
+| 02 | Extract TF-IDF-based event signals |
+| 03 | Train BERTopic model and generate topic signals |
+| 04 | Align events with multi-company stock returns |
+| 05 | Train feature-based prediction model |
+| 06 | Train final logistic regression event model |
 
 ---
 
 ## 🚀 Quick Start
 
 ### 1. Installation
-Install the required libraries listed in the `requirements.txt`:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Run Pipeline (Steps 01–06)
-Automate the data processing and modeling sequence via the Makefile. This will run the scripts from JSON conversion to the final logistic regression training:
+### 2. Run Full Pipeline (Steps 01–06)
 ```bash
 make all
 ```
 
-### 3. Launch Web Applications (Steps 07-08)
-Each application handles a specific part of the workflow:
+### 3. Launch Web Applications
+
 ```bash
-# For real-time signal extraction and predictions
+# Real-time inference & prediction
 streamlit run script/07_inference_app.py
 
-# For submitting new announcement data to the staging pool
+# Submit new announcements to the staging pool
 streamlit run script/08_data_intake_app.py
 ```
+
+Admin retraining can be triggered via:
+```bash
+streamlit run script/09_admin_retrain.py
+```
+
+---
 
 ## 📁 Project Structure
 
 ```
 2026_stock_price_prediction/
-├── artifacts/                # Model binaries and metadata
-│   ├── bertopic_model/       # Pre-trained BERTopic model folder
+├── artifacts/                # Trained models and feature metadata
+│   ├── bertopic_model/
 │   ├── feature_columns.joblib
 │   ├── logit_signal_model.joblib
 │   └── topic_logit_model.joblib
 ├── data/
-│   ├── pools/                # Staging area for user-submitted events
-│   ├── processed_data/       # Structured JSONL and aligned returns data
-│   └── raw_data/             # Original TXT news & conference call transcripts
-├── script/                   # Full Processing & App pipeline
+│   ├── raw_data/             # News & conference call transcripts
+│   ├── processed_data/       # JSONL signals & aligned returns
+│   └── pools/                # User-submitted event staging area
+├── script/
 │   ├── 01_txt_to_json_all.py
 │   ├── 02_tfidf_event_signals.py
 │   ├── 03_bert_topic.py
@@ -88,22 +149,22 @@ streamlit run script/08_data_intake_app.py
 │   ├── 07_inference_app.py
 │   ├── 08_data_intake_app.py
 │   ├── 09_admin_retrain.py
-│   └── save_user_upload.py   # Helper for data staging
-├── Makefile                  # Orchestrates the core pipeline (01-06)
+│   └── save_user_upload.py
+├── Makefile
 ├── requirements.txt
 └── README.md
 ```
----
 
+---
 
 ## 👤 Authors
 
-Jeeyeon Noh
+Jeeyeon Noh  
 Jingyi Wang
 
 ---
 
 ## 📜 Disclaimer
 
-This project is for educational and research purposes only.
+This project is for educational and research purposes only.  
 It does not constitute financial or investment advice.
